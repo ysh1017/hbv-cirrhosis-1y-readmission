@@ -1,0 +1,1168 @@
+{
+  "table_id": "Table1",
+  "title": "Table 1. Baseline characteristics of the overall domestic cohort.",
+  "source_manuscript": "HBV_Chinese_Manuscript_20261013.docx",
+  "source_sha256": "f3f9239f9989353e8083b1234892624a850017b8bdc60d014e9825ba6e083ef3",
+  "data_state": "Exact published display strings, not individual-level records or full-precision analysis inputs",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "paragraph_number": 127,
+      "text": "Table 1. Baseline characteristics of the overall domestic cohort.",
+      "display_html": "Table 1. Baseline characteristics of the overall domestic cohort."
+    },
+    {
+      "type": "table",
+      "physical_table_number": 1,
+      "panel": "",
+      "rows": [
+        {
+          "physical_row": 1,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Characteristic",
+              "display_html": "Characteristic"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Overall cohort (n = 445)",
+              "display_html": "Overall cohort (n = 445)"
+            }
+          ]
+        },
+        {
+          "physical_row": 2,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Demographic and background characteristics",
+              "display_html": "Demographic and background characteristics"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "",
+              "display_html": ""
+            }
+          ]
+        },
+        {
+          "physical_row": 3,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Age (years)",
+              "display_html": "Age (years)"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "52.0 (45.0, 61.0)",
+              "display_html": "52.0 (45.0, 61.0)"
+            }
+          ]
+        },
+        {
+          "physical_row": 4,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Male sex",
+              "display_html": "Male sex"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "313 (70.3)",
+              "display_html": "313 (70.3)"
+            }
+          ]
+        },
+        {
+          "physical_row": 5,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "BMI (kg/m²)",
+              "display_html": "BMI (kg/m²)"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "22.49 (20.55, 24.44)",
+              "display_html": "22.49 (20.55, 24.44)"
+            }
+          ]
+        },
+        {
+          "physical_row": 6,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Obesity, n (%)",
+              "display_html": "Obesity, n (%)"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "35 (7.9)",
+              "display_html": "35 (7.9)"
+            }
+          ]
+        },
+        {
+          "physical_row": 7,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Hypertension, n (%)",
+              "display_html": "Hypertension, n (%)"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "51 (11.5)",
+              "display_html": "51 (11.5)"
+            }
+          ]
+        },
+        {
+          "physical_row": 8,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Diabetes mellitus, n (%)",
+              "display_html": "Diabetes mellitus, n (%)"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "79 (17.8)",
+              "display_html": "79 (17.8)"
+            }
+          ]
+        },
+        {
+          "physical_row": 9,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Metabolic comorbidities, n (%)",
+              "display_html": "Metabolic comorbidities, n (%)"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "131 (29.4)",
+              "display_html": "131 (29.4)"
+            }
+          ]
+        },
+        {
+          "physical_row": 10,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Smoking history",
+              "display_html": "Smoking history"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "185 (41.6)",
+              "display_html": "185 (41.6)"
+            }
+          ]
+        },
+        {
+          "physical_row": 11,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Alcohol use history",
+              "display_html": "Alcohol use history"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "183 (41.1)",
+              "display_html": "183 (41.1)"
+            }
+          ]
+        },
+        {
+          "physical_row": 12,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "HBV serological, virological and treatment-related characteristics",
+              "display_html": "HBV serological, virological and treatment-related characteristics"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "",
+              "display_html": ""
+            }
+          ]
+        },
+        {
+          "physical_row": 13,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "HBeAg/anti-HBe status",
+              "display_html": "HBeAg/anti-HBe status"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "",
+              "display_html": ""
+            }
+          ]
+        },
+        {
+          "physical_row": 14,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "HBeAg−/anti-HBe+",
+              "display_html": "HBeAg−/anti-HBe+"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "313 (70.3)",
+              "display_html": "313 (70.3)"
+            }
+          ]
+        },
+        {
+          "physical_row": 15,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "HBeAg+/anti-HBe−",
+              "display_html": "HBeAg+/anti-HBe−"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "77 (17.3)",
+              "display_html": "77 (17.3)"
+            }
+          ]
+        },
+        {
+          "physical_row": 16,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "HBeAg−/anti-HBe−",
+              "display_html": "HBeAg−/anti-HBe−"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "36 (8.1)",
+              "display_html": "36 (8.1)"
+            }
+          ]
+        },
+        {
+          "physical_row": 17,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "HBeAg+/anti-HBe+",
+              "display_html": "HBeAg+/anti-HBe+"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "19 (4.3)",
+              "display_html": "19 (4.3)"
+            }
+          ]
+        },
+        {
+          "physical_row": 18,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "HBV DNA study category (IU/mL)",
+              "display_html": "HBV DNA study category (IU/mL)"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Available n = 442",
+              "display_html": "Available n = 442"
+            }
+          ]
+        },
+        {
+          "physical_row": 19,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "<2,000",
+              "display_html": "&lt;2,000"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "260 (58.8)",
+              "display_html": "260 (58.8)"
+            }
+          ]
+        },
+        {
+          "physical_row": 20,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "2,000–<20,000",
+              "display_html": "2,000–&lt;20,000"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "47 (10.6)",
+              "display_html": "47 (10.6)"
+            }
+          ]
+        },
+        {
+          "physical_row": 21,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "≥20,000",
+              "display_html": "≥20,000"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "135 (30.5)",
+              "display_html": "135 (30.5)"
+            }
+          ]
+        },
+        {
+          "physical_row": 22,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "HBV DNA, log10(IU/mL)",
+              "display_html": "HBV DNA, log<sub>10</sub>(IU/mL)"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "2.70 (2.70, 4.97); n = 437",
+              "display_html": "2.70 (2.70, 4.97); n = 437"
+            }
+          ]
+        },
+        {
+          "physical_row": 23,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "HBsAg, log10(IU/mL)",
+              "display_html": "HBsAg, log<sub>10</sub>(IU/mL)"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "2.81 (1.94, 3.16)",
+              "display_html": "2.81 (1.94, 3.16)"
+            }
+          ]
+        },
+        {
+          "physical_row": 24,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Prior antiviral therapy",
+              "display_html": "Prior antiviral therapy"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "246 (55.3)",
+              "display_html": "246 (55.3)"
+            }
+          ]
+        },
+        {
+          "physical_row": 25,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Recorded clinical manifestations",
+              "display_html": "Recorded clinical manifestations"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "",
+              "display_html": ""
+            }
+          ]
+        },
+        {
+          "physical_row": 26,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Ascites",
+              "display_html": "Ascites"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "194 (43.6)",
+              "display_html": "194 (43.6)"
+            }
+          ]
+        },
+        {
+          "physical_row": 27,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "EGVH",
+              "display_html": "EGVH"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "246 (55.3)",
+              "display_html": "246 (55.3)"
+            }
+          ]
+        },
+        {
+          "physical_row": 28,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "SBP",
+              "display_html": "SBP"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "108 (24.3)",
+              "display_html": "108 (24.3)"
+            }
+          ]
+        },
+        {
+          "physical_row": 29,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "HE",
+              "display_html": "HE"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "27 (6.1)",
+              "display_html": "27 (6.1)"
+            }
+          ]
+        },
+        {
+          "physical_row": 30,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "HRS",
+              "display_html": "HRS"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "5 (1.1)",
+              "display_html": "5 (1.1)"
+            }
+          ]
+        },
+        {
+          "physical_row": 31,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Infection",
+              "display_html": "Infection"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "181 (40.7)",
+              "display_html": "181 (40.7)"
+            }
+          ]
+        },
+        {
+          "physical_row": 32,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Laboratory measurements",
+              "display_html": "Laboratory measurements"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "",
+              "display_html": ""
+            }
+          ]
+        },
+        {
+          "physical_row": 33,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Albumin (g/L)",
+              "display_html": "Albumin (g/L)"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "29.00 (26.00, 34.00)",
+              "display_html": "29.00 (26.00, 34.00)"
+            }
+          ]
+        },
+        {
+          "physical_row": 34,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Total bilirubin (μmol/L)",
+              "display_html": "Total bilirubin (μmol/L)"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "24.70 (15.70, 41.00)",
+              "display_html": "24.70 (15.70, 41.00)"
+            }
+          ]
+        },
+        {
+          "physical_row": 35,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "ALT (U/L)",
+              "display_html": "ALT (U/L)"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "39.00 (27.00, 57.00)",
+              "display_html": "39.00 (27.00, 57.00)"
+            }
+          ]
+        },
+        {
+          "physical_row": 36,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "AST (U/L)",
+              "display_html": "AST (U/L)"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "44.00 (30.00, 65.00)",
+              "display_html": "44.00 (30.00, 65.00)"
+            }
+          ]
+        },
+        {
+          "physical_row": 37,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "ALP (U/L)",
+              "display_html": "ALP (U/L)"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "92.00 (67.00, 128.00)",
+              "display_html": "92.00 (67.00, 128.00)"
+            }
+          ]
+        },
+        {
+          "physical_row": 38,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "GGT (U/L)",
+              "display_html": "GGT (U/L)"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "38.00 (24.00, 74.00)",
+              "display_html": "38.00 (24.00, 74.00)"
+            }
+          ]
+        },
+        {
+          "physical_row": 39,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "INR",
+              "display_html": "INR"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "1.37 (1.22, 1.52)",
+              "display_html": "1.37 (1.22, 1.52)"
+            }
+          ]
+        },
+        {
+          "physical_row": 40,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "PT (s)",
+              "display_html": "PT (s)"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "16.40 (15.10, 18.30)",
+              "display_html": "16.40 (15.10, 18.30)"
+            }
+          ]
+        },
+        {
+          "physical_row": 41,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "PTA (%)",
+              "display_html": "PTA (%)"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "61.00 (52.00, 71.00)",
+              "display_html": "61.00 (52.00, 71.00)"
+            }
+          ]
+        },
+        {
+          "physical_row": 42,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Platelet count (109/L)",
+              "display_html": "Platelet count (10<sup>9</sup>/L)"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "63.00 (44.00, 95.00)",
+              "display_html": "63.00 (44.00, 95.00)"
+            }
+          ]
+        },
+        {
+          "physical_row": 43,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "WBC (10⁹/L)",
+              "display_html": "WBC (10⁹/L)"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "3.97 (2.70, 5.95)",
+              "display_html": "3.97 (2.70, 5.95)"
+            }
+          ]
+        },
+        {
+          "physical_row": 44,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Hemoglobin (g/L)",
+              "display_html": "Hemoglobin (g/L)"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "92.00 (73.00, 111.00)",
+              "display_html": "92.00 (73.00, 111.00)"
+            }
+          ]
+        },
+        {
+          "physical_row": 45,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Serum creatinine (μmol/L)",
+              "display_html": "Serum creatinine (μmol/L)"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "67.00 (56.00, 79.00)",
+              "display_html": "67.00 (56.00, 79.00)"
+            }
+          ]
+        },
+        {
+          "physical_row": 46,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Sodium (mmol/L)",
+              "display_html": "Sodium (mmol/L)"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "139.00 (137.00, 141.00)",
+              "display_html": "139.00 (137.00, 141.00)"
+            }
+          ]
+        },
+        {
+          "physical_row": 47,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Composite scores",
+              "display_html": "Composite scores"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "",
+              "display_html": ""
+            }
+          ]
+        },
+        {
+          "physical_row": 48,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "MELD-Na",
+              "display_html": "MELD-Na"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "12.47 (9.99, 15.54)",
+              "display_html": "12.47 (9.99, 15.54)"
+            }
+          ]
+        },
+        {
+          "physical_row": 49,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "ALBI",
+              "display_html": "ALBI"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "-1.62 (-2.02, -1.22)",
+              "display_html": "-1.62 (-2.02, -1.22)"
+            }
+          ]
+        },
+        {
+          "physical_row": 50,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "FIB-4",
+              "display_html": "FIB-4"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "5.76 (3.38, 10.53)",
+              "display_html": "5.76 (3.38, 10.53)"
+            }
+          ]
+        },
+        {
+          "physical_row": 51,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Index hospitalization",
+              "display_html": "Index hospitalization"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "",
+              "display_html": ""
+            }
+          ]
+        },
+        {
+          "physical_row": 52,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Length of index hospital stay (days)",
+              "display_html": "Length of index hospital stay (days)"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "10.0 (7.0, 15.0)",
+              "display_html": "10.0 (7.0, 15.0)"
+            }
+          ]
+        },
+        {
+          "physical_row": 53,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Observed 1-year outcome",
+              "display_html": "Observed 1-year outcome"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "",
+              "display_html": ""
+            }
+          ]
+        },
+        {
+          "physical_row": 54,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Study-defined readmission",
+              "display_html": "Study-defined readmission"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "185 (41.6)",
+              "display_html": "185 (41.6)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "paragraph_number": 128,
+      "text": "Values are presented as median (interquartile range) or n (%). Percentages were calculated using available nonmissing observations; available n is shown where it differs from 445. Clinical manifestations were not mutually exclusive. Metabolic comorbidities were defined as the presence of obesity, hypertension or diabetes mellitus; obesity was defined as BMI ≥28 kg/m². Retained viral-marker coding, source-scale limitations and derived-index definitions are provided in Supplementary Table S3A and Supplementary Note M1. Abbreviations: BMI, body mass index; HBV, hepatitis B virus; DNA, deoxyribonucleic acid; HBeAg, hepatitis B e antigen; anti-HBe, antibody to hepatitis B e antigen; HBsAg, hepatitis B surface antigen; EGVH, esophagogastric variceal hemorrhage; SBP, spontaneous bacterial peritonitis; HE, hepatic encephalopathy; HRS, hepatorenal syndrome; ALT, alanine aminotransferase; AST, aspartate aminotransferase; ALP, alkaline phosphatase; GGT, gamma-glutamyl transferase; INR, international normalized ratio; PT, prothrombin time; PTA, prothrombin activity; WBC, white blood cell count; MELD-Na, Model for End-Stage Liver Disease-sodium; ALBI, albumin-bilirubin score; FIB-4, fibrosis-4 index.",
+      "display_html": "Values are presented as median (interquartile range) or n (%). Percentages were calculated using available nonmissing observations; available n is shown where it differs from 445. Clinical manifestations were not mutually exclusive. Metabolic comorbidities were defined as the presence of obesity, hypertension or diabetes mellitus; obesity was defined as BMI ≥28 kg/m². Retained viral-marker coding, source-scale limitations and derived-index definitions are provided in Supplementary Table S3A and Supplementary Note M1. Abbreviations: BMI, body mass index; HBV, hepatitis B virus; DNA, deoxyribonucleic acid; HBeAg, hepatitis B e antigen; anti-HBe, antibody to hepatitis B e antigen; HBsAg, hepatitis B surface antigen; EGVH, esophagogastric variceal hemorrhage; SBP, spontaneous bacterial peritonitis; HE, hepatic encephalopathy; HRS, hepatorenal syndrome; ALT, alanine aminotransferase; AST, aspartate aminotransferase; ALP, alkaline phosphatase; GGT, gamma-glutamyl transferase; INR, international normalized ratio; PT, prothrombin time; PTA, prothrombin activity; WBC, white blood cell count; MELD-Na, Model for End-Stage Liver Disease-sodium; ALBI, albumin-bilirubin score; FIB-4, fibrosis-4 index."
+    },
+    {
+      "type": "paragraph",
+      "paragraph_number": 129,
+      "text": "",
+      "display_html": ""
+    }
+  ]
+}

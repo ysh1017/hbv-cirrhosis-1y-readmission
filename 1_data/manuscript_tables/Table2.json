@@ -1,0 +1,919 @@
+{
+  "table_id": "Table2",
+  "title": "Table 2. Predictive performance of the seven candidate models in internal and external evaluation.",
+  "source_manuscript": "HBV_Chinese_Manuscript_20261013.docx",
+  "source_sha256": "f3f9239f9989353e8083b1234892624a850017b8bdc60d014e9825ba6e083ef3",
+  "data_state": "Exact published display strings, not individual-level records or full-precision analysis inputs",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "paragraph_number": 130,
+      "text": "Table 2. Predictive performance of the seven candidate models in internal and external evaluation.",
+      "display_html": "Table 2. Predictive performance of the seven candidate models in internal and external evaluation."
+    },
+    {
+      "type": "paragraph",
+      "paragraph_number": 131,
+      "text": "A. Internal validation (133 patients; 55 events)",
+      "display_html": "A. Internal validation (133 patients; 55 events)"
+    },
+    {
+      "type": "table",
+      "physical_table_number": 2,
+      "panel": "A. Internal validation (133 patients; 55 events)",
+      "rows": [
+        {
+          "physical_row": 1,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Model",
+              "display_html": "Model"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "AUROC(95% CI)",
+              "display_html": "AUROC(95% CI)"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Average precision(95% CI)",
+              "display_html": "Average precision(95% CI)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Brier score(95% CI)",
+              "display_html": "Brier score(95% CI)"
+            },
+            {
+              "physical_cell": 5,
+              "grid_column_start": 5,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "CITL(95% CI)",
+              "display_html": "CITL(95% CI)"
+            },
+            {
+              "physical_cell": 6,
+              "grid_column_start": 6,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Calibration slope(95% CI)",
+              "display_html": "Calibration slope(95% CI)"
+            }
+          ]
+        },
+        {
+          "physical_row": 2,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Logistic regression",
+              "display_html": "Logistic regression"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.762(0.672–0.842)",
+              "display_html": "0.762(0.672–0.842)"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.716(0.589–0.823)",
+              "display_html": "0.716(0.589–0.823)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.193(0.160–0.231)",
+              "display_html": "0.193(0.160–0.231)"
+            },
+            {
+              "physical_cell": 5,
+              "grid_column_start": 5,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "-0.063(-0.493–0.355)",
+              "display_html": "-0.063(-0.493–0.355)"
+            },
+            {
+              "physical_cell": 6,
+              "grid_column_start": 6,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.796(0.480–1.268)",
+              "display_html": "0.796(0.480–1.268)"
+            }
+          ]
+        },
+        {
+          "physical_row": 3,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "LASSO",
+              "display_html": "LASSO"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.766(0.676–0.843)",
+              "display_html": "0.766(0.676–0.843)"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.721(0.597–0.825)",
+              "display_html": "0.721(0.597–0.825)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.192(0.164–0.224)",
+              "display_html": "0.192(0.164–0.224)"
+            },
+            {
+              "physical_cell": 5,
+              "grid_column_start": 5,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "-0.047(-0.443–0.329)",
+              "display_html": "-0.047(-0.443–0.329)"
+            },
+            {
+              "physical_cell": 6,
+              "grid_column_start": 6,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "1.054(0.652–1.642)",
+              "display_html": "1.054(0.652–1.642)"
+            }
+          ]
+        },
+        {
+          "physical_row": 4,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Elastic net",
+              "display_html": "Elastic net"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.763(0.674–0.841)",
+              "display_html": "0.763(0.674–0.841)"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.716(0.593–0.819)",
+              "display_html": "0.716(0.593–0.819)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.193(0.167–0.223)",
+              "display_html": "0.193(0.167–0.223)"
+            },
+            {
+              "physical_cell": 5,
+              "grid_column_start": 5,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "-0.027(-0.411–0.334)",
+              "display_html": "-0.027(-0.411–0.334)"
+            },
+            {
+              "physical_cell": 6,
+              "grid_column_start": 6,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "1.226(0.770–1.877)",
+              "display_html": "1.226(0.770–1.877)"
+            }
+          ]
+        },
+        {
+          "physical_row": 5,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Random forest",
+              "display_html": "Random forest"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.762(0.672–0.842)",
+              "display_html": "0.762(0.672–0.842)"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.671(0.540–0.802)",
+              "display_html": "0.671(0.540–0.802)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.192(0.159–0.230)",
+              "display_html": "0.192(0.159–0.230)"
+            },
+            {
+              "physical_cell": 5,
+              "grid_column_start": 5,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "-0.092(-0.520–0.313)",
+              "display_html": "-0.092(-0.520–0.313)"
+            },
+            {
+              "physical_cell": 6,
+              "grid_column_start": 6,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.867(0.517–1.349)",
+              "display_html": "0.867(0.517–1.349)"
+            }
+          ]
+        },
+        {
+          "physical_row": 6,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "XGBoost",
+              "display_html": "XGBoost"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.747(0.656–0.829)",
+              "display_html": "0.747(0.656–0.829)"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.685(0.553–0.805)",
+              "display_html": "0.685(0.553–0.805)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.199(0.165–0.236)",
+              "display_html": "0.199(0.165–0.236)"
+            },
+            {
+              "physical_cell": 5,
+              "grid_column_start": 5,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "-0.049(-0.470–0.356)",
+              "display_html": "-0.049(-0.470–0.356)"
+            },
+            {
+              "physical_cell": 6,
+              "grid_column_start": 6,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.859(0.509–1.307)",
+              "display_html": "0.859(0.509–1.307)"
+            }
+          ]
+        },
+        {
+          "physical_row": 7,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "RBF-SVM",
+              "display_html": "RBF-SVM"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.751(0.660–0.832)",
+              "display_html": "0.751(0.660–0.832)"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.672(0.539–0.792)",
+              "display_html": "0.672(0.539–0.792)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.199(0.164–0.238)",
+              "display_html": "0.199(0.164–0.238)"
+            },
+            {
+              "physical_cell": 5,
+              "grid_column_start": 5,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.020(-0.419–0.430)",
+              "display_html": "0.020(-0.419–0.430)"
+            },
+            {
+              "physical_cell": 6,
+              "grid_column_start": 6,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.822(0.484–1.252)",
+              "display_html": "0.822(0.484–1.252)"
+            }
+          ]
+        },
+        {
+          "physical_row": 8,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "LightGBM",
+              "display_html": "LightGBM"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.747(0.655–0.830)",
+              "display_html": "0.747(0.655–0.830)"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.665(0.527–0.796)",
+              "display_html": "0.665(0.527–0.796)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.201(0.177–0.227)",
+              "display_html": "0.201(0.177–0.227)"
+            },
+            {
+              "physical_cell": 5,
+              "grid_column_start": 5,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "-0.050(-0.422–0.290)",
+              "display_html": "-0.050(-0.422–0.290)"
+            },
+            {
+              "physical_cell": 6,
+              "grid_column_start": 6,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "1.425(0.856–2.134)",
+              "display_html": "1.425(0.856–2.134)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "paragraph_number": 132,
+      "text": "Higher AUROC and AP and lower Brier scores indicate better predictive performance. Ideal values are 0 for CITL and 1 for the calibration slope. Values are point estimates with 95% CIs. Internal validation includes 133 patients; external evaluation includes 102 hospitalization episodes from 50 patients. External confidence intervals accounted for repeated episodes within patients. AUROC, area under the receiver operating characteristic curve; AP, average precision; CITL, calibration-in-the-large. CI, confidence interval; LASSO, least absolute shrinkage and selection operator; RBF-SVM, radial-basis-function support vector machine; XGBoost, Extreme Gradient Boosting; LightGBM, Light Gradient Boosting Machine.",
+      "display_html": "Higher AUROC and AP and lower Brier scores indicate better predictive performance. Ideal values are 0 for CITL and 1 for the calibration slope. Values are point estimates with 95% CIs. Internal validation includes 133 patients; external evaluation includes 102 hospitalization episodes from 50 patients. External confidence intervals accounted for repeated episodes within patients. AUROC, area under the receiver operating characteristic curve; AP, average precision; CITL, calibration-in-the-large. CI, confidence interval; LASSO, least absolute shrinkage and selection operator; RBF-SVM, radial-basis-function support vector machine; XGBoost, Extreme Gradient Boosting; LightGBM, Light Gradient Boosting Machine."
+    },
+    {
+      "type": "paragraph",
+      "paragraph_number": 133,
+      "text": "",
+      "display_html": ""
+    },
+    {
+      "type": "paragraph",
+      "paragraph_number": 134,
+      "text": "Table 2. Predictive performance of the seven candidate models in internal and external evaluation.",
+      "display_html": "Table 2. Predictive performance of the seven candidate models in internal and external evaluation."
+    },
+    {
+      "type": "paragraph",
+      "paragraph_number": 135,
+      "text": "B. External evaluation (102 admission-oriented episodes from 50 patients; 67 events)",
+      "display_html": "B. External evaluation (102 admission-oriented episodes from 50 patients; 67 events)"
+    },
+    {
+      "type": "table",
+      "physical_table_number": 3,
+      "panel": "B. External evaluation (102 admission-oriented episodes from 50 patients; 67 events)",
+      "rows": [
+        {
+          "physical_row": 1,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Model",
+              "display_html": "Model"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "AUROC(95% CI)",
+              "display_html": "AUROC(95% CI)"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Average precision(95% CI)",
+              "display_html": "Average precision(95% CI)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Brier score(95% CI)",
+              "display_html": "Brier score(95% CI)"
+            },
+            {
+              "physical_cell": 5,
+              "grid_column_start": 5,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "CITL(95% CI)",
+              "display_html": "CITL(95% CI)"
+            },
+            {
+              "physical_cell": 6,
+              "grid_column_start": 6,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Calibration slope(95% CI)",
+              "display_html": "Calibration slope(95% CI)"
+            }
+          ]
+        },
+        {
+          "physical_row": 2,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Logistic regression",
+              "display_html": "Logistic regression"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.712 (0.571–0.823)",
+              "display_html": "0.712 (0.571–0.823)"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.785 (0.602–0.915)",
+              "display_html": "0.785 (0.602–0.915)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.225 (0.164–0.300)",
+              "display_html": "0.225 (0.164–0.300)"
+            },
+            {
+              "physical_cell": 5,
+              "grid_column_start": 5,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.781 (0.085–1.458)",
+              "display_html": "0.781 (0.085–1.458)"
+            },
+            {
+              "physical_cell": 6,
+              "grid_column_start": 6,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.223 (-0.038–0.774)",
+              "display_html": "0.223 (-0.038–0.774)"
+            }
+          ]
+        },
+        {
+          "physical_row": 3,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "LASSO",
+              "display_html": "LASSO"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.705 (0.566–0.817)",
+              "display_html": "0.705 (0.566–0.817)"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.776 (0.594–0.908)",
+              "display_html": "0.776 (0.594–0.908)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.225 (0.170–0.294)",
+              "display_html": "0.225 (0.170–0.294)"
+            },
+            {
+              "physical_cell": 5,
+              "grid_column_start": 5,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.717 (0.079–1.299)",
+              "display_html": "0.717 (0.079–1.299)"
+            },
+            {
+              "physical_cell": 6,
+              "grid_column_start": 6,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.255 (-0.064–0.962)",
+              "display_html": "0.255 (-0.064–0.962)"
+            }
+          ]
+        },
+        {
+          "physical_row": 4,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Elastic net",
+              "display_html": "Elastic net"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.717 (0.577–0.828)",
+              "display_html": "0.717 (0.577–0.828)"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.788 (0.607–0.916)",
+              "display_html": "0.788 (0.607–0.916)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.221 (0.170–0.285)",
+              "display_html": "0.221 (0.170–0.285)"
+            },
+            {
+              "physical_cell": 5,
+              "grid_column_start": 5,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.702 (0.101–1.239)",
+              "display_html": "0.702 (0.101–1.239)"
+            },
+            {
+              "physical_cell": 6,
+              "grid_column_start": 6,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.367 (-0.059–1.222)",
+              "display_html": "0.367 (-0.059–1.222)"
+            }
+          ]
+        },
+        {
+          "physical_row": 5,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Random forest",
+              "display_html": "Random forest"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.719 (0.567–0.838)",
+              "display_html": "0.719 (0.567–0.838)"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.834 (0.639–0.934)",
+              "display_html": "0.834 (0.639–0.934)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.215 (0.160–0.282)",
+              "display_html": "0.215 (0.160–0.282)"
+            },
+            {
+              "physical_cell": 5,
+              "grid_column_start": 5,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.682 (0.101–1.266)",
+              "display_html": "0.682 (0.101–1.266)"
+            },
+            {
+              "physical_cell": 6,
+              "grid_column_start": 6,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.614 (0.198–1.142)",
+              "display_html": "0.614 (0.198–1.142)"
+            }
+          ]
+        },
+        {
+          "physical_row": 6,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "XGBoost",
+              "display_html": "XGBoost"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.728 (0.569–0.846)",
+              "display_html": "0.728 (0.569–0.846)"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.849 (0.646–0.941)",
+              "display_html": "0.849 (0.646–0.941)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.215 (0.162–0.278)",
+              "display_html": "0.215 (0.162–0.278)"
+            },
+            {
+              "physical_cell": 5,
+              "grid_column_start": 5,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.650 (0.085–1.215)",
+              "display_html": "0.650 (0.085–1.215)"
+            },
+            {
+              "physical_cell": 6,
+              "grid_column_start": 6,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.655 (0.208–1.210)",
+              "display_html": "0.655 (0.208–1.210)"
+            }
+          ]
+        },
+        {
+          "physical_row": 7,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "RBF-SVM",
+              "display_html": "RBF-SVM"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.770 (0.640–0.871)",
+              "display_html": "0.770 (0.640–0.871)"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.853 (0.707–0.945)",
+              "display_html": "0.853 (0.707–0.945)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.199 (0.147–0.259)",
+              "display_html": "0.199 (0.147–0.259)"
+            },
+            {
+              "physical_cell": 5,
+              "grid_column_start": 5,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.725 (0.159–1.272)",
+              "display_html": "0.725 (0.159–1.272)"
+            },
+            {
+              "physical_cell": 6,
+              "grid_column_start": 6,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.853 (0.415–1.491)",
+              "display_html": "0.853 (0.415–1.491)"
+            }
+          ]
+        },
+        {
+          "physical_row": 8,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "LightGBM",
+              "display_html": "LightGBM"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.694 (0.537–0.820)",
+              "display_html": "0.694 (0.537–0.820)"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.799 (0.592–0.920)",
+              "display_html": "0.799 (0.592–0.920)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.225 (0.191–0.267)",
+              "display_html": "0.225 (0.191–0.267)"
+            },
+            {
+              "physical_cell": 5,
+              "grid_column_start": 5,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.681 (0.146–1.169)",
+              "display_html": "0.681 (0.146–1.169)"
+            },
+            {
+              "physical_cell": 6,
+              "grid_column_start": 6,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.966 (0.227–1.825)",
+              "display_html": "0.966 (0.227–1.825)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "paragraph_number": 136,
+      "text": "Higher AUROC and AP and lower Brier scores indicate better predictive performance. Ideal values are 0 for CITL and 1 for the calibration slope. Values are point estimates with 95% CIs. Internal validation includes 133 patients; external evaluation includes 102 hospitalization episodes from 50 patients. External confidence intervals accounted for repeated episodes within patients. AUROC, area under the receiver operating characteristic curve; AP, average precision; CITL, calibration-in-the-large. CI, confidence interval; LASSO, least absolute shrinkage and selection operator; RBF-SVM, radial-basis-function support vector machine; XGBoost, Extreme Gradient Boosting; LightGBM, Light Gradient Boosting Machine.",
+      "display_html": "Higher AUROC and AP and lower Brier scores indicate better predictive performance. Ideal values are 0 for CITL and 1 for the calibration slope. Values are point estimates with 95% CIs. Internal validation includes 133 patients; external evaluation includes 102 hospitalization episodes from 50 patients. External confidence intervals accounted for repeated episodes within patients. AUROC, area under the receiver operating characteristic curve; AP, average precision; CITL, calibration-in-the-large. CI, confidence interval; LASSO, least absolute shrinkage and selection operator; RBF-SVM, radial-basis-function support vector machine; XGBoost, Extreme Gradient Boosting; LightGBM, Light Gradient Boosting Machine."
+    },
+    {
+      "type": "paragraph",
+      "paragraph_number": 137,
+      "text": "",
+      "display_html": ""
+    }
+  ]
+}

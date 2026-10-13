@@ -1,0 +1,2027 @@
+{
+  "table_id": "TableS6",
+  "title": "Supplementary Table S6  Predictor representation and Core4 ablation analyses",
+  "source_manuscript": "HBV_Chinese_Manuscript_20261013.docx",
+  "source_sha256": "f3f9239f9989353e8083b1234892624a850017b8bdc60d014e9825ba6e083ef3",
+  "data_state": "Exact published display strings, not individual-level records or full-precision analysis inputs",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "paragraph_number": 273,
+      "text": "Supplementary Table S6  Predictor representation and Core4 ablation analyses",
+      "display_html": "Supplementary Table S6  Predictor representation and Core4 ablation analyses"
+    },
+    {
+      "type": "paragraph",
+      "paragraph_number": 274,
+      "text": "A. Internal validation: Logistic regression",
+      "display_html": "A. Internal validation: Logistic regression"
+    },
+    {
+      "type": "table",
+      "physical_table_number": 44,
+      "panel": "A. Internal validation: Logistic regression",
+      "rows": [
+        {
+          "physical_row": 1,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Representation",
+              "display_html": "Representation"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "AUROC",
+              "display_html": "AUROC"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "AP",
+              "display_html": "AP"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Brier",
+              "display_html": "Brier"
+            },
+            {
+              "physical_cell": 5,
+              "grid_column_start": 5,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "CITL",
+              "display_html": "CITL"
+            },
+            {
+              "physical_cell": 6,
+              "grid_column_start": 6,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Slope",
+              "display_html": "Slope"
+            }
+          ]
+        },
+        {
+          "physical_row": 2,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Original Core4",
+              "display_html": "Original Core4"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.762",
+              "display_html": "0.762"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.716",
+              "display_html": "0.716"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.193",
+              "display_html": "0.193"
+            },
+            {
+              "physical_cell": 5,
+              "grid_column_start": 5,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "-0.063",
+              "display_html": "-0.063"
+            },
+            {
+              "physical_cell": 6,
+              "grid_column_start": 6,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.796",
+              "display_html": "0.796"
+            }
+          ]
+        },
+        {
+          "physical_row": 3,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Raw-only intersection",
+              "display_html": "Raw-only intersection"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.755",
+              "display_html": "0.755"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.715",
+              "display_html": "0.715"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.197",
+              "display_html": "0.197"
+            },
+            {
+              "physical_cell": 5,
+              "grid_column_start": 5,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "-0.118",
+              "display_html": "-0.118"
+            },
+            {
+              "physical_cell": 6,
+              "grid_column_start": 6,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.762",
+              "display_html": "0.762"
+            }
+          ]
+        },
+        {
+          "physical_row": 4,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Composite representation",
+              "display_html": "Composite representation"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.744",
+              "display_html": "0.744"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.676",
+              "display_html": "0.676"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.202",
+              "display_html": "0.202"
+            },
+            {
+              "physical_cell": 5,
+              "grid_column_start": 5,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.064",
+              "display_html": "0.064"
+            },
+            {
+              "physical_cell": 6,
+              "grid_column_start": 6,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.926",
+              "display_html": "0.926"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "paragraph_number": 275,
+      "text": "A. Internal validation: RBF-SVM",
+      "display_html": "A. Internal validation: RBF-SVM"
+    },
+    {
+      "type": "table",
+      "physical_table_number": 45,
+      "panel": "A. Internal validation: RBF-SVM",
+      "rows": [
+        {
+          "physical_row": 1,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Representation",
+              "display_html": "Representation"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "AUROC",
+              "display_html": "AUROC"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "AP",
+              "display_html": "AP"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Brier",
+              "display_html": "Brier"
+            },
+            {
+              "physical_cell": 5,
+              "grid_column_start": 5,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "CITL",
+              "display_html": "CITL"
+            },
+            {
+              "physical_cell": 6,
+              "grid_column_start": 6,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Slope",
+              "display_html": "Slope"
+            }
+          ]
+        },
+        {
+          "physical_row": 2,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Original Core4",
+              "display_html": "Original Core4"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.751",
+              "display_html": "0.751"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.672",
+              "display_html": "0.672"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.199",
+              "display_html": "0.199"
+            },
+            {
+              "physical_cell": 5,
+              "grid_column_start": 5,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.020",
+              "display_html": "0.020"
+            },
+            {
+              "physical_cell": 6,
+              "grid_column_start": 6,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.822",
+              "display_html": "0.822"
+            }
+          ]
+        },
+        {
+          "physical_row": 3,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Raw-only intersection",
+              "display_html": "Raw-only intersection"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.763",
+              "display_html": "0.763"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.724",
+              "display_html": "0.724"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.191",
+              "display_html": "0.191"
+            },
+            {
+              "physical_cell": 5,
+              "grid_column_start": 5,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "-0.064",
+              "display_html": "-0.064"
+            },
+            {
+              "physical_cell": 6,
+              "grid_column_start": 6,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.873",
+              "display_html": "0.873"
+            }
+          ]
+        },
+        {
+          "physical_row": 4,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Composite representation",
+              "display_html": "Composite representation"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.739",
+              "display_html": "0.739"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.667",
+              "display_html": "0.667"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.204",
+              "display_html": "0.204"
+            },
+            {
+              "physical_cell": 5,
+              "grid_column_start": 5,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.044",
+              "display_html": "0.044"
+            },
+            {
+              "physical_cell": 6,
+              "grid_column_start": 6,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.970",
+              "display_html": "0.970"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "paragraph_number": 276,
+      "text": "A. External evaluation: Logistic regression",
+      "display_html": "A. External evaluation: Logistic regression"
+    },
+    {
+      "type": "table",
+      "physical_table_number": 46,
+      "panel": "A. External evaluation: Logistic regression",
+      "rows": [
+        {
+          "physical_row": 1,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Representation",
+              "display_html": "Representation"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "AUROC",
+              "display_html": "AUROC"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "AP",
+              "display_html": "AP"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Brier",
+              "display_html": "Brier"
+            },
+            {
+              "physical_cell": 5,
+              "grid_column_start": 5,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "CITL",
+              "display_html": "CITL"
+            },
+            {
+              "physical_cell": 6,
+              "grid_column_start": 6,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Slope",
+              "display_html": "Slope"
+            }
+          ]
+        },
+        {
+          "physical_row": 2,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Original Core4",
+              "display_html": "Original Core4"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.712",
+              "display_html": "0.712"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.785",
+              "display_html": "0.785"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.225",
+              "display_html": "0.225"
+            },
+            {
+              "physical_cell": 5,
+              "grid_column_start": 5,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.781",
+              "display_html": "0.781"
+            },
+            {
+              "physical_cell": 6,
+              "grid_column_start": 6,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.223",
+              "display_html": "0.223"
+            }
+          ]
+        },
+        {
+          "physical_row": 3,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Raw-only intersection",
+              "display_html": "Raw-only intersection"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.665",
+              "display_html": "0.665"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.744",
+              "display_html": "0.744"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.249",
+              "display_html": "0.249"
+            },
+            {
+              "physical_cell": 5,
+              "grid_column_start": 5,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.825",
+              "display_html": "0.825"
+            },
+            {
+              "physical_cell": 6,
+              "grid_column_start": 6,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.124",
+              "display_html": "0.124"
+            }
+          ]
+        },
+        {
+          "physical_row": 4,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Composite representation",
+              "display_html": "Composite representation"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.719",
+              "display_html": "0.719"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.797",
+              "display_html": "0.797"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.214",
+              "display_html": "0.214"
+            },
+            {
+              "physical_cell": 5,
+              "grid_column_start": 5,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.601",
+              "display_html": "0.601"
+            },
+            {
+              "physical_cell": 6,
+              "grid_column_start": 6,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.420",
+              "display_html": "0.420"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "paragraph_number": 277,
+      "text": "A. External evaluation: RBF-SVM",
+      "display_html": "A. External evaluation: RBF-SVM"
+    },
+    {
+      "type": "table",
+      "physical_table_number": 47,
+      "panel": "A. External evaluation: RBF-SVM",
+      "rows": [
+        {
+          "physical_row": 1,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Representation",
+              "display_html": "Representation"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "AUROC",
+              "display_html": "AUROC"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "AP",
+              "display_html": "AP"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Brier",
+              "display_html": "Brier"
+            },
+            {
+              "physical_cell": 5,
+              "grid_column_start": 5,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "CITL",
+              "display_html": "CITL"
+            },
+            {
+              "physical_cell": 6,
+              "grid_column_start": 6,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Slope",
+              "display_html": "Slope"
+            }
+          ]
+        },
+        {
+          "physical_row": 2,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Original Core4",
+              "display_html": "Original Core4"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.770",
+              "display_html": "0.770"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.853",
+              "display_html": "0.853"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.199",
+              "display_html": "0.199"
+            },
+            {
+              "physical_cell": 5,
+              "grid_column_start": 5,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.725",
+              "display_html": "0.725"
+            },
+            {
+              "physical_cell": 6,
+              "grid_column_start": 6,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.853",
+              "display_html": "0.853"
+            }
+          ]
+        },
+        {
+          "physical_row": 3,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Raw-only intersection",
+              "display_html": "Raw-only intersection"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.675",
+              "display_html": "0.675"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.765",
+              "display_html": "0.765"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.243",
+              "display_html": "0.243"
+            },
+            {
+              "physical_cell": 5,
+              "grid_column_start": 5,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.684",
+              "display_html": "0.684"
+            },
+            {
+              "physical_cell": 6,
+              "grid_column_start": 6,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.240",
+              "display_html": "0.240"
+            }
+          ]
+        },
+        {
+          "physical_row": 4,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Composite representation",
+              "display_html": "Composite representation"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.733",
+              "display_html": "0.733"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.834",
+              "display_html": "0.834"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.209",
+              "display_html": "0.209"
+            },
+            {
+              "physical_cell": 5,
+              "grid_column_start": 5,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.582",
+              "display_html": "0.582"
+            },
+            {
+              "physical_cell": 6,
+              "grid_column_start": 6,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.755",
+              "display_html": "0.755"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "paragraph_number": 278,
+      "text": "B. Core4 ablations: internal validation / Logistic regression",
+      "display_html": "B. Core4 ablations: internal validation / Logistic regression"
+    },
+    {
+      "type": "table",
+      "physical_table_number": 48,
+      "panel": "B. Core4 ablations: internal validation / Logistic regression",
+      "rows": [
+        {
+          "physical_row": 1,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Ablation",
+              "display_html": "Ablation"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Delta AUROC (95% CI)",
+              "display_html": "Delta AUROC (95% CI)"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Delta AP (95% CI)",
+              "display_html": "Delta AP (95% CI)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Brier improvement (95% CI)",
+              "display_html": "Brier improvement (95% CI)"
+            }
+          ]
+        },
+        {
+          "physical_row": 2,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "E1: remove INR",
+              "display_html": "E1: remove INR"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.030 (-0.007 to 0.067)",
+              "display_html": "0.030 (-0.007 to 0.067)"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.063 (0.004 to 0.117)",
+              "display_html": "0.063 (0.004 to 0.117)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.015 (0.001 to 0.029)",
+              "display_html": "0.015 (0.001 to 0.029)"
+            }
+          ]
+        },
+        {
+          "physical_row": 3,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "E2: remove PLT",
+              "display_html": "E2: remove PLT"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "-0.006 (-0.043 to 0.029)",
+              "display_html": "-0.006 (-0.043 to 0.029)"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "-0.002 (-0.037 to 0.034)",
+              "display_html": "-0.002 (-0.037 to 0.034)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.001 (-0.012 to 0.013)",
+              "display_html": "0.001 (-0.012 to 0.013)"
+            }
+          ]
+        },
+        {
+          "physical_row": 4,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "E3: remove ALBI",
+              "display_html": "E3: remove ALBI"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.011 (-0.015 to 0.037)",
+              "display_html": "0.011 (-0.015 to 0.037)"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "-0.001 (-0.035 to 0.034)",
+              "display_html": "-0.001 (-0.035 to 0.034)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.005 (-0.004 to 0.014)",
+              "display_html": "0.005 (-0.004 to 0.014)"
+            }
+          ]
+        },
+        {
+          "physical_row": 5,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "E4: remove FIB-4",
+              "display_html": "E4: remove FIB-4"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "-0.011 (-0.025 to 0.002)",
+              "display_html": "-0.011 (-0.025 to 0.002)"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "-0.016 (-0.046 to 0.009)",
+              "display_html": "-0.016 (-0.046 to 0.009)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "-0.002 (-0.008 to 0.003)",
+              "display_html": "-0.002 (-0.008 to 0.003)"
+            }
+          ]
+        },
+        {
+          "physical_row": 6,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "E5: INR + ALBI only",
+              "display_html": "E5: INR + ALBI only"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "-0.024 (-0.078 to 0.025)",
+              "display_html": "-0.024 (-0.078 to 0.025)"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "-0.029 (-0.080 to 0.019)",
+              "display_html": "-0.029 (-0.080 to 0.019)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "-0.008 (-0.027 to 0.010)",
+              "display_html": "-0.008 (-0.027 to 0.010)"
+            }
+          ]
+        },
+        {
+          "physical_row": 7,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "E6: PLT + FIB-4 only",
+              "display_html": "E6: PLT + FIB-4 only"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.095 (0.037 to 0.158)",
+              "display_html": "0.095 (0.037 to 0.158)"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.149 (0.058 to 0.224)",
+              "display_html": "0.149 (0.058 to 0.224)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.034 (0.013 to 0.054)",
+              "display_html": "0.034 (0.013 to 0.054)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "paragraph_number": 279,
+      "text": "B. Core4 ablations: internal validation / RBF-SVM",
+      "display_html": "B. Core4 ablations: internal validation / RBF-SVM"
+    },
+    {
+      "type": "table",
+      "physical_table_number": 49,
+      "panel": "B. Core4 ablations: internal validation / RBF-SVM",
+      "rows": [
+        {
+          "physical_row": 1,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Ablation",
+              "display_html": "Ablation"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Delta AUROC (95% CI)",
+              "display_html": "Delta AUROC (95% CI)"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Delta AP (95% CI)",
+              "display_html": "Delta AP (95% CI)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Brier improvement (95% CI)",
+              "display_html": "Brier improvement (95% CI)"
+            }
+          ]
+        },
+        {
+          "physical_row": 2,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "E1: remove INR",
+              "display_html": "E1: remove INR"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.037 (-0.004 to 0.078)",
+              "display_html": "0.037 (-0.004 to 0.078)"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.056 (-0.011 to 0.118)",
+              "display_html": "0.056 (-0.011 to 0.118)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.016 (-0.002 to 0.033)",
+              "display_html": "0.016 (-0.002 to 0.033)"
+            }
+          ]
+        },
+        {
+          "physical_row": 3,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "E2: remove PLT",
+              "display_html": "E2: remove PLT"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "-0.003 (-0.025 to 0.017)",
+              "display_html": "-0.003 (-0.025 to 0.017)"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "-0.023 (-0.075 to 0.028)",
+              "display_html": "-0.023 (-0.075 to 0.028)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "-0.002 (-0.010 to 0.007)",
+              "display_html": "-0.002 (-0.010 to 0.007)"
+            }
+          ]
+        },
+        {
+          "physical_row": 4,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "E3: remove ALBI",
+              "display_html": "E3: remove ALBI"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.010 (-0.022 to 0.043)",
+              "display_html": "0.010 (-0.022 to 0.043)"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "-0.026 (-0.079 to 0.028)",
+              "display_html": "-0.026 (-0.079 to 0.028)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.004 (-0.008 to 0.017)",
+              "display_html": "0.004 (-0.008 to 0.017)"
+            }
+          ]
+        },
+        {
+          "physical_row": 5,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "E4: remove FIB-4",
+              "display_html": "E4: remove FIB-4"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "-0.024 (-0.053 to 0.005)",
+              "display_html": "-0.024 (-0.053 to 0.005)"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "-0.043 (-0.110 to 0.020)",
+              "display_html": "-0.043 (-0.110 to 0.020)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "-0.010 (-0.024 to 0.003)",
+              "display_html": "-0.010 (-0.024 to 0.003)"
+            }
+          ]
+        },
+        {
+          "physical_row": 6,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "E5: INR + ALBI only",
+              "display_html": "E5: INR + ALBI only"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "-0.036 (-0.082 to 0.008)",
+              "display_html": "-0.036 (-0.082 to 0.008)"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "-0.072 (-0.139 to -0.005)",
+              "display_html": "-0.072 (-0.139 to -0.005)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "-0.012 (-0.031 to 0.006)",
+              "display_html": "-0.012 (-0.031 to 0.006)"
+            }
+          ]
+        },
+        {
+          "physical_row": 7,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "E6: PLT + FIB-4 only",
+              "display_html": "E6: PLT + FIB-4 only"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.090 (0.026 to 0.155)",
+              "display_html": "0.090 (0.026 to 0.155)"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.114 (0.022 to 0.196)",
+              "display_html": "0.114 (0.022 to 0.196)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.032 (0.008 to 0.056)",
+              "display_html": "0.032 (0.008 to 0.056)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "paragraph_number": 280,
+      "text": "B. Core4 ablations: external evaluation / Logistic regression",
+      "display_html": "B. Core4 ablations: external evaluation / Logistic regression"
+    },
+    {
+      "type": "table",
+      "physical_table_number": 50,
+      "panel": "B. Core4 ablations: external evaluation / Logistic regression",
+      "rows": [
+        {
+          "physical_row": 1,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Ablation",
+              "display_html": "Ablation"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Delta AUROC (95% CI)",
+              "display_html": "Delta AUROC (95% CI)"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Delta AP (95% CI)",
+              "display_html": "Delta AP (95% CI)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Brier improvement (95% CI)",
+              "display_html": "Brier improvement (95% CI)"
+            }
+          ]
+        },
+        {
+          "physical_row": 2,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "E1: remove INR",
+              "display_html": "E1: remove INR"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "-0.049 (-0.133 to 0.030)",
+              "display_html": "-0.049 (-0.133 to 0.030)"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "-0.084 (-0.172 to 0.008)",
+              "display_html": "-0.084 (-0.172 to 0.008)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.002 (-0.041 to 0.040)",
+              "display_html": "0.002 (-0.041 to 0.040)"
+            }
+          ]
+        },
+        {
+          "physical_row": 3,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "E2: remove PLT",
+              "display_html": "E2: remove PLT"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.005 (-0.042 to 0.055)",
+              "display_html": "0.005 (-0.042 to 0.055)"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.013 (-0.026 to 0.058)",
+              "display_html": "0.013 (-0.026 to 0.058)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "-0.007 (-0.028 to 0.014)",
+              "display_html": "-0.007 (-0.028 to 0.014)"
+            }
+          ]
+        },
+        {
+          "physical_row": 4,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "E3: remove ALBI",
+              "display_html": "E3: remove ALBI"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.032 (0.006 to 0.065)",
+              "display_html": "0.032 (0.006 to 0.065)"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.033 (0.004 to 0.070)",
+              "display_html": "0.033 (0.004 to 0.070)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.012 (-0.001 to 0.028)",
+              "display_html": "0.012 (-0.001 to 0.028)"
+            }
+          ]
+        },
+        {
+          "physical_row": 5,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "E4: remove FIB-4",
+              "display_html": "E4: remove FIB-4"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.008 (-0.010 to 0.029)",
+              "display_html": "0.008 (-0.010 to 0.029)"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.010 (-0.011 to 0.035)",
+              "display_html": "0.010 (-0.011 to 0.035)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.009 (-0.001 to 0.017)",
+              "display_html": "0.009 (-0.001 to 0.017)"
+            }
+          ]
+        },
+        {
+          "physical_row": 6,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "E5: INR + ALBI only",
+              "display_html": "E5: INR + ALBI only"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.056 (-0.021 to 0.138)",
+              "display_html": "0.056 (-0.021 to 0.138)"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.058 (-0.012 to 0.126)",
+              "display_html": "0.058 (-0.012 to 0.126)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.018 (-0.018 to 0.053)",
+              "display_html": "0.018 (-0.018 to 0.053)"
+            }
+          ]
+        },
+        {
+          "physical_row": 7,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "E6: PLT + FIB-4 only",
+              "display_html": "E6: PLT + FIB-4 only"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "-0.001 (-0.105 to 0.100)",
+              "display_html": "-0.001 (-0.105 to 0.100)"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "-0.053 (-0.145 to 0.055)",
+              "display_html": "-0.053 (-0.145 to 0.055)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.013 (-0.034 to 0.055)",
+              "display_html": "0.013 (-0.034 to 0.055)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "paragraph_number": 281,
+      "text": "B. Core4 ablations: external evaluation / RBF-SVM",
+      "display_html": "B. Core4 ablations: external evaluation / RBF-SVM"
+    },
+    {
+      "type": "table",
+      "physical_table_number": 51,
+      "panel": "B. Core4 ablations: external evaluation / RBF-SVM",
+      "rows": [
+        {
+          "physical_row": 1,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Ablation",
+              "display_html": "Ablation"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Delta AUROC (95% CI)",
+              "display_html": "Delta AUROC (95% CI)"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Delta AP (95% CI)",
+              "display_html": "Delta AP (95% CI)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Brier improvement (95% CI)",
+              "display_html": "Brier improvement (95% CI)"
+            }
+          ]
+        },
+        {
+          "physical_row": 2,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "E1: remove INR",
+              "display_html": "E1: remove INR"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "-0.004 (-0.059 to 0.055)",
+              "display_html": "-0.004 (-0.059 to 0.055)"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "-0.022 (-0.054 to 0.032)",
+              "display_html": "-0.022 (-0.054 to 0.032)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "-0.003 (-0.028 to 0.022)",
+              "display_html": "-0.003 (-0.028 to 0.022)"
+            }
+          ]
+        },
+        {
+          "physical_row": 3,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "E2: remove PLT",
+              "display_html": "E2: remove PLT"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.025 (-0.035 to 0.099)",
+              "display_html": "0.025 (-0.035 to 0.099)"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.016 (-0.045 to 0.123)",
+              "display_html": "0.016 (-0.045 to 0.123)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.003 (-0.019 to 0.031)",
+              "display_html": "0.003 (-0.019 to 0.031)"
+            }
+          ]
+        },
+        {
+          "physical_row": 4,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "E3: remove ALBI",
+              "display_html": "E3: remove ALBI"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.072 (-0.007 to 0.166)",
+              "display_html": "0.072 (-0.007 to 0.166)"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.083 (-0.018 to 0.189)",
+              "display_html": "0.083 (-0.018 to 0.189)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.016 (-0.017 to 0.061)",
+              "display_html": "0.016 (-0.017 to 0.061)"
+            }
+          ]
+        },
+        {
+          "physical_row": 5,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "E4: remove FIB-4",
+              "display_html": "E4: remove FIB-4"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.016 (-0.028 to 0.061)",
+              "display_html": "0.016 (-0.028 to 0.061)"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.006 (-0.034 to 0.055)",
+              "display_html": "0.006 (-0.034 to 0.055)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.010 (-0.009 to 0.027)",
+              "display_html": "0.010 (-0.009 to 0.027)"
+            }
+          ]
+        },
+        {
+          "physical_row": 6,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "E5: INR + ALBI only",
+              "display_html": "E5: INR + ALBI only"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.107 (0.009 to 0.221)",
+              "display_html": "0.107 (0.009 to 0.221)"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.105 (-0.010 to 0.218)",
+              "display_html": "0.105 (-0.010 to 0.218)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.038 (-0.001 to 0.079)",
+              "display_html": "0.038 (-0.001 to 0.079)"
+            }
+          ]
+        },
+        {
+          "physical_row": 7,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "E6: PLT + FIB-4 only",
+              "display_html": "E6: PLT + FIB-4 only"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.034 (-0.039 to 0.125)",
+              "display_html": "0.034 (-0.039 to 0.125)"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "-0.003 (-0.041 to 0.082)",
+              "display_html": "-0.003 (-0.041 to 0.082)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.009 (-0.022 to 0.044)",
+              "display_html": "0.009 (-0.022 to 0.044)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "paragraph_number": 282,
+      "text": "Panel A shows point estimates; no new intervals are introduced. Internal validation contains 133 patients; external evaluation contains 102 episodes from 50 patients. Core4 = INR/PLT/ALBI/FIB-4; raw-only intersection = INR/PLT; composite intersection = PTAR/FIB-4. Candidate-pool rules are in Note M3.",
+      "display_html": "Panel A shows point estimates; no new intervals are introduced. Internal validation contains 133 patients; external evaluation contains 102 episodes from 50 patients. Core4 = INR/PLT/ALBI/FIB-4; raw-only intersection = INR/PLT; composite intersection = PTAR/FIB-4. Candidate-pool rules are in Note M3."
+    },
+    {
+      "type": "paragraph",
+      "paragraph_number": 283,
+      "text": "Panel B retains all six ablations. ΔAUROC and ΔAP = FULL minus ablation; Brier improvement = ablation minus FULL. Positive values favor FULL. Original paired 95% percentile intervals use 5,000 patient draws internally and patient-cluster draws externally. Intervals spanning zero do not establish equivalence or absence of contribution. See Note M3.",
+      "display_html": "Panel B retains all six ablations. ΔAUROC and ΔAP = FULL minus ablation; Brier improvement = ablation minus FULL. Positive values favor FULL. Original paired 95% percentile intervals use 5,000 patient draws internally and patient-cluster draws externally. Intervals spanning zero do not establish equivalence or absence of contribution. See Note M3."
+    },
+    {
+      "type": "paragraph",
+      "paragraph_number": 284,
+      "text": "Abbreviations: AUROC, area under the receiver operating characteristic curve; AP, average precision; CITL, calibration-in-the-large; CI, confidence interval; RBF-SVM, radial-basis-function support vector machine; PTAR, study-defined 10 × INR/albumin (albumin in g/L); INR, international normalized ratio; PLT, platelet count; ALBI, albumin-bilirubin score; FIB-4, fibrosis-4 index.",
+      "display_html": "Abbreviations: AUROC, area under the receiver operating characteristic curve; AP, average precision; CITL, calibration-in-the-large; CI, confidence interval; RBF-SVM, radial-basis-function support vector machine; PTAR, study-defined 10 × INR/albumin (albumin in g/L); INR, international normalized ratio; PLT, platelet count; ALBI, albumin-bilirubin score; FIB-4, fibrosis-4 index."
+    },
+    {
+      "type": "paragraph",
+      "paragraph_number": 285,
+      "text": "",
+      "display_html": ""
+    }
+  ]
+}

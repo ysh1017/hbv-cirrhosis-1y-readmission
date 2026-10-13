@@ -1,0 +1,873 @@
+{
+  "table_id": "TableS7",
+  "title": "Supplementary Table S7  Discrimination by readmission timing",
+  "source_manuscript": "HBV_Chinese_Manuscript_20261013.docx",
+  "source_sha256": "f3f9239f9989353e8083b1234892624a850017b8bdc60d014e9825ba6e083ef3",
+  "data_state": "Exact published display strings, not individual-level records or full-precision analysis inputs",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "paragraph_number": 286,
+      "text": "Supplementary Table S7  Discrimination by readmission timing",
+      "display_html": "Supplementary Table S7  Discrimination by readmission timing"
+    },
+    {
+      "type": "paragraph",
+      "paragraph_number": 287,
+      "text": "A. Event-time groups and shared non-event controls",
+      "display_html": "A. Event-time groups and shared non-event controls"
+    },
+    {
+      "type": "table",
+      "physical_table_number": 52,
+      "panel": "A. Event-time groups and shared non-event controls",
+      "rows": [
+        {
+          "physical_row": 1,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Cohort / period",
+              "display_html": "Cohort / period"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Cases",
+              "display_html": "Cases"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Common controls",
+              "display_html": "Common controls"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Analyzed records",
+              "display_html": "Analyzed records"
+            },
+            {
+              "physical_cell": 5,
+              "grid_column_start": 5,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Patients / units",
+              "display_html": "Patients / units"
+            },
+            {
+              "physical_cell": 6,
+              "grid_column_start": 6,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Unclassified positive times",
+              "display_html": "Unclassified positive times"
+            }
+          ]
+        },
+        {
+          "physical_row": 2,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Internal / Early",
+              "display_html": "Internal / Early"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "22",
+              "display_html": "22"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "78",
+              "display_html": "78"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "100",
+              "display_html": "100"
+            },
+            {
+              "physical_cell": 5,
+              "grid_column_start": 5,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "100",
+              "display_html": "100"
+            },
+            {
+              "physical_cell": 6,
+              "grid_column_start": 6,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0",
+              "display_html": "0"
+            }
+          ]
+        },
+        {
+          "physical_row": 3,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Internal / Late",
+              "display_html": "Internal / Late"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "33",
+              "display_html": "33"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "78",
+              "display_html": "78"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "111",
+              "display_html": "111"
+            },
+            {
+              "physical_cell": 5,
+              "grid_column_start": 5,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "111",
+              "display_html": "111"
+            },
+            {
+              "physical_cell": 6,
+              "grid_column_start": 6,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0",
+              "display_html": "0"
+            }
+          ]
+        },
+        {
+          "physical_row": 4,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "External / Early",
+              "display_html": "External / Early"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "48",
+              "display_html": "48"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "35",
+              "display_html": "35"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "83",
+              "display_html": "83"
+            },
+            {
+              "physical_cell": 5,
+              "grid_column_start": 5,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "48",
+              "display_html": "48"
+            },
+            {
+              "physical_cell": 6,
+              "grid_column_start": 6,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "2",
+              "display_html": "2"
+            }
+          ]
+        },
+        {
+          "physical_row": 5,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "External / Late",
+              "display_html": "External / Late"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "17",
+              "display_html": "17"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "35",
+              "display_html": "35"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "52",
+              "display_html": "52"
+            },
+            {
+              "physical_cell": 5,
+              "grid_column_start": 5,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "37",
+              "display_html": "37"
+            },
+            {
+              "physical_cell": 6,
+              "grid_column_start": 6,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "2",
+              "display_html": "2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "paragraph_number": 288,
+      "text": "Internal units are patients; external records are hospitalization episodes. External patients may contribute multiple episodes. The early and late comparisons share the same one-year non-event controls; their displayed sizes must not be added to reconstruct the primary cohort.",
+      "display_html": "Internal units are patients; external records are hospitalization episodes. External patients may contribute multiple episodes. The early and late comparisons share the same one-year non-event controls; their displayed sizes must not be added to reconstruct the primary cohort."
+    },
+    {
+      "type": "paragraph",
+      "paragraph_number": 289,
+      "text": "Two external event episodes with unclassifiable timing remain in the one-year analysis and are excluded from both time groups. The repeated count in the two external rows denotes the same two episodes.",
+      "display_html": "Two external event episodes with unclassifiable timing remain in the one-year analysis and are excluded from both time groups. The repeated count in the two external rows denotes the same two episodes."
+    },
+    {
+      "type": "paragraph",
+      "paragraph_number": 290,
+      "text": "B. Fixed internal model scores: time-stratified discrimination",
+      "display_html": "B. Fixed internal model scores: time-stratified discrimination"
+    },
+    {
+      "type": "table",
+      "physical_table_number": 53,
+      "panel": "B. Fixed internal model scores: time-stratified discrimination",
+      "rows": [
+        {
+          "physical_row": 1,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Model",
+              "display_html": "Model"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Early AUROC (95% CI)",
+              "display_html": "Early AUROC (95% CI)"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Late AUROC (95% CI)",
+              "display_html": "Late AUROC (95% CI)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Late minus early (95% CI)",
+              "display_html": "Late minus early (95% CI)"
+            }
+          ]
+        },
+        {
+          "physical_row": 2,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Logistic regression",
+              "display_html": "Logistic regression"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.846 (0.745 to 0.930)",
+              "display_html": "0.846 (0.745 to 0.930)"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.707 (0.591 to 0.814)",
+              "display_html": "0.707 (0.591 to 0.814)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "-0.139 (-0.270 to -0.012)",
+              "display_html": "-0.139 (-0.270 to -0.012)"
+            }
+          ]
+        },
+        {
+          "physical_row": 3,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "LASSO",
+              "display_html": "LASSO"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.848 (0.749 to 0.932)",
+              "display_html": "0.848 (0.749 to 0.932)"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.711 (0.596 to 0.817)",
+              "display_html": "0.711 (0.596 to 0.817)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "-0.137 (-0.267 to -0.011)",
+              "display_html": "-0.137 (-0.267 to -0.011)"
+            }
+          ]
+        },
+        {
+          "physical_row": 4,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Elastic net",
+              "display_html": "Elastic net"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.843 (0.744 to 0.929)",
+              "display_html": "0.843 (0.744 to 0.929)"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.709 (0.594 to 0.814)",
+              "display_html": "0.709 (0.594 to 0.814)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "-0.134 (-0.261 to -0.009)",
+              "display_html": "-0.134 (-0.261 to -0.009)"
+            }
+          ]
+        },
+        {
+          "physical_row": 5,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Random forest",
+              "display_html": "Random forest"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.837 (0.736 to 0.924)",
+              "display_html": "0.837 (0.736 to 0.924)"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.711 (0.601 to 0.815)",
+              "display_html": "0.711 (0.601 to 0.815)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "-0.126 (-0.253 to -0.004)",
+              "display_html": "-0.126 (-0.253 to -0.004)"
+            }
+          ]
+        },
+        {
+          "physical_row": 6,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "XGBoost",
+              "display_html": "XGBoost"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.838 (0.736 to 0.926)",
+              "display_html": "0.838 (0.736 to 0.926)"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.686 (0.572 to 0.793)",
+              "display_html": "0.686 (0.572 to 0.793)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "-0.152 (-0.285 to -0.026)",
+              "display_html": "-0.152 (-0.285 to -0.026)"
+            }
+          ]
+        },
+        {
+          "physical_row": 7,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "RBF-SVM",
+              "display_html": "RBF-SVM"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.818 (0.712 to 0.911)",
+              "display_html": "0.818 (0.712 to 0.911)"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.706 (0.593 to 0.811)",
+              "display_html": "0.706 (0.593 to 0.811)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "-0.112 (-0.235 to 0.012)",
+              "display_html": "-0.112 (-0.235 to 0.012)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "paragraph_number": 291,
+      "text": "C. Fixed external model scores: time-stratified discrimination",
+      "display_html": "C. Fixed external model scores: time-stratified discrimination"
+    },
+    {
+      "type": "table",
+      "physical_table_number": 54,
+      "panel": "C. Fixed external model scores: time-stratified discrimination",
+      "rows": [
+        {
+          "physical_row": 1,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Model",
+              "display_html": "Model"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Early AUROC (95% CI)",
+              "display_html": "Early AUROC (95% CI)"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Late AUROC (95% CI)",
+              "display_html": "Late AUROC (95% CI)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Late minus early (95% CI)",
+              "display_html": "Late minus early (95% CI)"
+            }
+          ]
+        },
+        {
+          "physical_row": 2,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Logistic regression",
+              "display_html": "Logistic regression"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.725 (0.583 to 0.835)",
+              "display_html": "0.725 (0.583 to 0.835)"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.645 (0.438 to 0.803)",
+              "display_html": "0.645 (0.438 to 0.803)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "-0.080 (-0.243 to 0.048)",
+              "display_html": "-0.080 (-0.243 to 0.048)"
+            }
+          ]
+        },
+        {
+          "physical_row": 3,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "LASSO",
+              "display_html": "LASSO"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.718 (0.577 to 0.829)",
+              "display_html": "0.718 (0.577 to 0.829)"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.640 (0.436 to 0.798)",
+              "display_html": "0.640 (0.436 to 0.798)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "-0.078 (-0.241 to 0.051)",
+              "display_html": "-0.078 (-0.241 to 0.051)"
+            }
+          ]
+        },
+        {
+          "physical_row": 4,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Elastic net",
+              "display_html": "Elastic net"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.732 (0.592 to 0.842)",
+              "display_html": "0.732 (0.592 to 0.842)"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.649 (0.444 to 0.807)",
+              "display_html": "0.649 (0.444 to 0.807)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "-0.083 (-0.255 to 0.047)",
+              "display_html": "-0.083 (-0.255 to 0.047)"
+            }
+          ]
+        },
+        {
+          "physical_row": 5,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Random forest",
+              "display_html": "Random forest"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.728 (0.574 to 0.847)",
+              "display_html": "0.728 (0.574 to 0.847)"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.684 (0.447 to 0.853)",
+              "display_html": "0.684 (0.447 to 0.853)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "-0.044 (-0.232 to 0.112)",
+              "display_html": "-0.044 (-0.232 to 0.112)"
+            }
+          ]
+        },
+        {
+          "physical_row": 6,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "XGBoost",
+              "display_html": "XGBoost"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.732 (0.569 to 0.853)",
+              "display_html": "0.732 (0.569 to 0.853)"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.691 (0.456 to 0.857)",
+              "display_html": "0.691 (0.456 to 0.857)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "-0.042 (-0.227 to 0.109)",
+              "display_html": "-0.042 (-0.227 to 0.109)"
+            }
+          ]
+        },
+        {
+          "physical_row": 7,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "RBF-SVM",
+              "display_html": "RBF-SVM"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.786 (0.655 to 0.887)",
+              "display_html": "0.786 (0.655 to 0.887)"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.723 (0.494 to 0.878)",
+              "display_html": "0.723 (0.494 to 0.878)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "-0.064 (-0.266 to 0.077)",
+              "display_html": "-0.064 (-0.266 to 0.077)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "paragraph_number": 292,
+      "text": "Early = 0–90 days; late = >90–365 days after discharge. Both event groups are compared with the same one-year non-event controls. The other event group is not used as controls. These six fixed-model score analyses are not newly fitted early/late models, cumulative 90-day ROC analyses or window-specific calibrated risks.",
+      "display_html": "Early = 0–90 days; late = &gt;90–365 days after discharge. Both event groups are compared with the same one-year non-event controls. The other event group is not used as controls. These six fixed-model score analyses are not newly fitted early/late models, cumulative 90-day ROC analyses or window-specific calibrated risks."
+    },
+    {
+      "type": "paragraph",
+      "paragraph_number": 293,
+      "text": "Original 95% intervals and late-minus-early contrasts use the saved 5,000 patient draws internally and patient-cluster draws externally. Contrasts are paired; an interval spanning zero does not demonstrate equivalence. See Note M3.",
+      "display_html": "Original 95% intervals and late-minus-early contrasts use the saved 5,000 patient draws internally and patient-cluster draws externally. Contrasts are paired; an interval spanning zero does not demonstrate equivalence. See Note M3."
+    },
+    {
+      "type": "paragraph",
+      "paragraph_number": 294,
+      "text": "Abbreviations: AUROC, area under the receiver operating characteristic (ROC) curve; CI, confidence interval; LASSO, least absolute shrinkage and selection operator; RBF-SVM, radial-basis-function support vector machine; XGBoost, Extreme Gradient Boosting.",
+      "display_html": "Abbreviations: AUROC, area under the receiver operating characteristic (ROC) curve; CI, confidence interval; LASSO, least absolute shrinkage and selection operator; RBF-SVM, radial-basis-function support vector machine; XGBoost, Extreme Gradient Boosting."
+    },
+    {
+      "type": "paragraph",
+      "paragraph_number": 295,
+      "text": "",
+      "display_html": ""
+    }
+  ]
+}

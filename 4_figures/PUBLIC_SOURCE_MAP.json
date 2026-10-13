@@ -1,0 +1,79 @@
+[
+  {
+    "public_path": "4_figures/Figure1.pdf",
+    "artifact": "Figure1",
+    "source_identity": "Original current publication figure; corresponding image unchanged in the 2026-10-13 Chinese manuscript",
+    "sha256": "958291c5ed0da2fe00eecf4d0561562d1b7706155eac6f5b2d9b1e220b49575a",
+    "current_manuscript_sha256": "f3f9239f9989353e8083b1234892624a850017b8bdc60d014e9825ba6e083ef3",
+    "current_embedded_image_sha256": "b0154d7f645c9378a0deb51fba4aa2c8c40df09caa061c9fae078bc1160d9fc6"
+  },
+  {
+    "public_path": "4_figures/Figure2.pdf",
+    "artifact": "Figure2",
+    "source_identity": "Original current publication figure; corresponding image unchanged in the 2026-10-13 Chinese manuscript",
+    "sha256": "f7054ff02bb261117868628b84a1e364d07942c49b1673397ae687c7074407a1",
+    "current_manuscript_sha256": "f3f9239f9989353e8083b1234892624a850017b8bdc60d014e9825ba6e083ef3",
+    "current_embedded_image_sha256": "b51e7eeb41ecf601abf55257f1a80f48e1181e6a48d8c78a6bd877309707769d"
+  },
+  {
+    "public_path": "4_figures/Figure3.pdf",
+    "artifact": "Figure3",
+    "source_identity": "Original current publication figure; corresponding image unchanged in the 2026-10-13 Chinese manuscript",
+    "sha256": "2eb937c9d769dfacde3dc90673f224cb6b00cf49cff4f559b7136a2da21d7df2",
+    "current_manuscript_sha256": "f3f9239f9989353e8083b1234892624a850017b8bdc60d014e9825ba6e083ef3",
+    "current_embedded_image_sha256": "4b330e1bd327e8b3b9e4eada415c5a82a887d0f03582bf8eeb90940bce79fcab"
+  },
+  {
+    "public_path": "4_figures/Figure4.pdf",
+    "artifact": "Figure4",
+    "source_identity": "Original current publication figure; corresponding image unchanged in the 2026-10-13 Chinese manuscript",
+    "sha256": "f08040a2b697307cc0dbb03ab1dfbb68dd6db956b58f015f6335317b57cd4153",
+    "current_manuscript_sha256": "f3f9239f9989353e8083b1234892624a850017b8bdc60d014e9825ba6e083ef3",
+    "current_embedded_image_sha256": "8dd821d0361bacf6fc77210b4bb6e043639434dba6b0f8ca46213be8478fe904"
+  },
+  {
+    "public_path": "4_figures/Figure5.pdf",
+    "artifact": "Figure5",
+    "source_identity": "Original current publication figure; corresponding image unchanged in the 2026-10-13 Chinese manuscript",
+    "sha256": "7bd1990ec22374644c47c22ff19b9b98c4bfdfa6a9636c6bcd03796933887d4f",
+    "current_manuscript_sha256": "f3f9239f9989353e8083b1234892624a850017b8bdc60d014e9825ba6e083ef3",
+    "current_embedded_image_sha256": "e7fa6f09a31711f4178f511842e6f4c323b5d4d7f464c405b7aacc9e48384546"
+  },
+  {
+    "public_path": "4_figures/FigureS1.pdf",
+    "artifact": "FigureS1",
+    "source_identity": "Original current publication figure; corresponding image unchanged in the 2026-10-13 Chinese manuscript",
+    "sha256": "1daf24d9a40d20a3eb358cf132c30e0c5596ec39b7de3e7e2ea2964a1a61e2d7",
+    "current_manuscript_sha256": "f3f9239f9989353e8083b1234892624a850017b8bdc60d014e9825ba6e083ef3",
+    "current_embedded_image_sha256": "ff978c237c66729e372c4bfbe6cb1d907a1beb7d7cd6b98ba4e988750b8d2610"
+  },
+  {
+    "public_path": "4_figures/FigureS2.pdf",
+    "artifact": "FigureS2",
+    "source_identity": "Original current publication figure; corresponding image unchanged in the 2026-10-13 Chinese manuscript",
+    "sha256": "3eaad5685485801a598abdc50b1bdd1a2d7bbaed01aceb5e0900e677c207cb15",
+    "current_manuscript_sha256": "f3f9239f9989353e8083b1234892624a850017b8bdc60d014e9825ba6e083ef3",
+    "current_embedded_image_sha256": "52326980cfac74026e65551c2c907f92a5078a915101846184b94f74935a3ddf"
+  },
+  {
+    "public_path": "3_results/main_tables/Table1.pdf",
+    "artifact": "Table1",
+    "source_identity": "Current standalone publication table; every data cell matches the 2026-10-13 Chinese manuscript",
+    "sha256": "37fe8b5eedd6c13f213bccad232e151d41609a901bd71365d1f01120afe93f48",
+    "current_manuscript_sha256": "f3f9239f9989353e8083b1234892624a850017b8bdc60d014e9825ba6e083ef3"
+  },
+  {
+    "public_path": "3_results/main_tables/Table2.pdf",
+    "artifact": "Table2",
+    "source_identity": "Current standalone publication table; every data cell matches the 2026-10-13 Chinese manuscript",
+    "sha256": "5cfa6d9ba708de5dfddb5c92a29b90a3631daa56868851af0a12f47dcfde3d9a",
+    "current_manuscript_sha256": "f3f9239f9989353e8083b1234892624a850017b8bdc60d014e9825ba6e083ef3"
+  },
+  {
+    "public_path": "3_results/main_tables/Table3.pdf",
+    "artifact": "Table3",
+    "source_identity": "Current standalone publication table; every data cell matches the 2026-10-13 Chinese manuscript",
+    "sha256": "df42e7779d3780d4e5907764bae059daa915d1f69c1b9c71046684650191a4c9",
+    "current_manuscript_sha256": "f3f9239f9989353e8083b1234892624a850017b8bdc60d014e9825ba6e083ef3"
+  }
+]

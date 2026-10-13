@@ -1,0 +1,299 @@
+{
+  "table_id": "Table3",
+  "title": "Table 3. Coverage and observed-event capture across RBF-SVM risk strata.",
+  "source_manuscript": "HBV_Chinese_Manuscript_20261013.docx",
+  "source_sha256": "f3f9239f9989353e8083b1234892624a850017b8bdc60d014e9825ba6e083ef3",
+  "data_state": "Exact published display strings, not individual-level records or full-precision analysis inputs",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "paragraph_number": 138,
+      "text": "Table 3. Coverage and observed-event capture across RBF-SVM risk strata.",
+      "display_html": "Table 3. Coverage and observed-event capture across RBF-SVM risk strata."
+    },
+    {
+      "type": "table",
+      "physical_table_number": 4,
+      "panel": "",
+      "rows": [
+        {
+          "physical_row": 1,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Cohort",
+              "display_html": "Cohort"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Risk-stratum strategy",
+              "display_html": "Risk-stratum strategy"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Selected records, n/N (%)",
+              "display_html": "Selected records, n/N (%)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Captured events, n/total events (%)",
+              "display_html": "Captured events, n/total events (%)"
+            },
+            {
+              "physical_cell": 5,
+              "grid_column_start": 5,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Missed events, n",
+              "display_html": "Missed events, n"
+            },
+            {
+              "physical_cell": 6,
+              "grid_column_start": 6,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Specificity, % (95% CI)",
+              "display_html": "Specificity, % (95% CI)"
+            }
+          ]
+        },
+        {
+          "physical_row": 2,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Internal validation",
+              "display_html": "Internal validation"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "High only",
+              "display_html": "High only"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "39/133 (29.3%)",
+              "display_html": "39/133 (29.3%)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "28/55 (50.9%)",
+              "display_html": "28/55 (50.9%)"
+            },
+            {
+              "physical_cell": 5,
+              "grid_column_start": 5,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "27",
+              "display_html": "27"
+            },
+            {
+              "physical_cell": 6,
+              "grid_column_start": 6,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "85.9 (77.6–93.0)",
+              "display_html": "85.9 (77.6–93.0)"
+            }
+          ]
+        },
+        {
+          "physical_row": 3,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Internal validation",
+              "display_html": "Internal validation"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Intermediate plus High",
+              "display_html": "Intermediate plus High"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "89/133 (66.9%)",
+              "display_html": "89/133 (66.9%)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "48/55 (87.3%)",
+              "display_html": "48/55 (87.3%)"
+            },
+            {
+              "physical_cell": 5,
+              "grid_column_start": 5,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "7",
+              "display_html": "7"
+            },
+            {
+              "physical_cell": 6,
+              "grid_column_start": 6,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "47.4 (36.2–58.4)",
+              "display_html": "47.4 (36.2–58.4)"
+            }
+          ]
+        },
+        {
+          "physical_row": 4,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "External evaluation",
+              "display_html": "External evaluation"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "High only",
+              "display_html": "High only"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "52/102 (51.0%)",
+              "display_html": "52/102 (51.0%)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "45/67 (67.2%)",
+              "display_html": "45/67 (67.2%)"
+            },
+            {
+              "physical_cell": 5,
+              "grid_column_start": 5,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "22",
+              "display_html": "22"
+            },
+            {
+              "physical_cell": 6,
+              "grid_column_start": 6,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "80.0 (65.8–92.5)",
+              "display_html": "80.0 (65.8–92.5)"
+            }
+          ]
+        },
+        {
+          "physical_row": 5,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "External evaluation",
+              "display_html": "External evaluation"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Intermediate plus High",
+              "display_html": "Intermediate plus High"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "81/102 (79.4%)",
+              "display_html": "81/102 (79.4%)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "59/67 (88.1%)",
+              "display_html": "59/67 (88.1%)"
+            },
+            {
+              "physical_cell": 5,
+              "grid_column_start": 5,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "8",
+              "display_html": "8"
+            },
+            {
+              "physical_cell": 6,
+              "grid_column_start": 6,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "37.1 (20.6–54.8)",
+              "display_html": "37.1 (20.6–54.8)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "paragraph_number": 139,
+      "text": "Risk strata were derived in the development cohort and applied unchanged to the internal and external cohorts. Coverage denotes the proportion selected by each strategy, and event capture the proportion of all observed events within the selected group. Specificity denotes the proportion of non-event observations outside the selected group. External results are reported for 102 hospitalization episodes from 50 patients. Captured events are observed events, not events prevented by an intervention. Abbreviations: RBF-SVM, radial-basis-function support vector machine; CI, confidence interval.",
+      "display_html": "Risk strata were derived in the development cohort and applied unchanged to the internal and external cohorts. Coverage denotes the proportion selected by each strategy, and event capture the proportion of all observed events within the selected group. Specificity denotes the proportion of non-event observations outside the selected group. External results are reported for 102 hospitalization episodes from 50 patients. Captured events are observed events, not events prevented by an intervention. Abbreviations: RBF-SVM, radial-basis-function support vector machine; CI, confidence interval."
+    },
+    {
+      "type": "paragraph",
+      "paragraph_number": 140,
+      "text": "",
+      "display_html": ""
+    }
+  ]
+}

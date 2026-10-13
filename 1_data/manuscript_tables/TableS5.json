@@ -1,0 +1,4196 @@
+{
+  "table_id": "TableS5",
+  "title": "Supplementary Table S5  Supplementary model performance and clinical benchmarking",
+  "source_manuscript": "HBV_Chinese_Manuscript_20261013.docx",
+  "source_sha256": "f3f9239f9989353e8083b1234892624a850017b8bdc60d014e9825ba6e083ef3",
+  "data_state": "Exact published display strings, not individual-level records or full-precision analysis inputs",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "paragraph_number": 235,
+      "text": "Supplementary Table S5  Supplementary model performance and clinical benchmarking",
+      "display_html": "Supplementary Table S5  Supplementary model performance and clinical benchmarking"
+    },
+    {
+      "type": "paragraph",
+      "paragraph_number": 236,
+      "text": "A. Repeated nested internal performance",
+      "display_html": "A. Repeated nested internal performance"
+    },
+    {
+      "type": "table",
+      "physical_table_number": 27,
+      "panel": "A. Repeated nested internal performance",
+      "rows": [
+        {
+          "physical_row": 1,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Model",
+              "display_html": "Model"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Valid n",
+              "display_html": "Valid n"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "AUROC",
+              "display_html": "AUROC"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "AP",
+              "display_html": "AP"
+            },
+            {
+              "physical_cell": 5,
+              "grid_column_start": 5,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Brier",
+              "display_html": "Brier"
+            }
+          ]
+        },
+        {
+          "physical_row": 2,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Logistic regression",
+              "display_html": "Logistic regression"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "98",
+              "display_html": "98"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.776 (0.757, 0.797)",
+              "display_html": "0.776 (0.757, 0.797)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.693 (0.666, 0.723)",
+              "display_html": "0.693 (0.666, 0.723)"
+            },
+            {
+              "physical_cell": 5,
+              "grid_column_start": 5,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.192 (0.183, 0.201)",
+              "display_html": "0.192 (0.183, 0.201)"
+            }
+          ]
+        },
+        {
+          "physical_row": 3,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "LASSO",
+              "display_html": "LASSO"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "95",
+              "display_html": "95"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.776 (0.759, 0.799)",
+              "display_html": "0.776 (0.759, 0.799)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.692 (0.668, 0.722)",
+              "display_html": "0.692 (0.668, 0.722)"
+            },
+            {
+              "physical_cell": 5,
+              "grid_column_start": 5,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.192 (0.184, 0.200)",
+              "display_html": "0.192 (0.184, 0.200)"
+            }
+          ]
+        },
+        {
+          "physical_row": 4,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Elastic net",
+              "display_html": "Elastic net"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "95",
+              "display_html": "95"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.776 (0.756, 0.799)",
+              "display_html": "0.776 (0.756, 0.799)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.692 (0.662, 0.723)",
+              "display_html": "0.692 (0.662, 0.723)"
+            },
+            {
+              "physical_cell": 5,
+              "grid_column_start": 5,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.195 (0.188, 0.205)",
+              "display_html": "0.195 (0.188, 0.205)"
+            }
+          ]
+        },
+        {
+          "physical_row": 5,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Random forest",
+              "display_html": "Random forest"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "98",
+              "display_html": "98"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.764 (0.737, 0.781)",
+              "display_html": "0.764 (0.737, 0.781)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.645 (0.617, 0.682)",
+              "display_html": "0.645 (0.617, 0.682)"
+            },
+            {
+              "physical_cell": 5,
+              "grid_column_start": 5,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.196 (0.188, 0.209)",
+              "display_html": "0.196 (0.188, 0.209)"
+            }
+          ]
+        },
+        {
+          "physical_row": 6,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "XGBoost",
+              "display_html": "XGBoost"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "98",
+              "display_html": "98"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.766 (0.742, 0.780)",
+              "display_html": "0.766 (0.742, 0.780)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.661 (0.633, 0.692)",
+              "display_html": "0.661 (0.633, 0.692)"
+            },
+            {
+              "physical_cell": 5,
+              "grid_column_start": 5,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.195 (0.189, 0.205)",
+              "display_html": "0.195 (0.189, 0.205)"
+            }
+          ]
+        },
+        {
+          "physical_row": 7,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "RBF-SVM",
+              "display_html": "RBF-SVM"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "98",
+              "display_html": "98"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.777 (0.756, 0.798)",
+              "display_html": "0.777 (0.756, 0.798)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.688 (0.656, 0.719)",
+              "display_html": "0.688 (0.656, 0.719)"
+            },
+            {
+              "physical_cell": 5,
+              "grid_column_start": 5,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.193 (0.184, 0.201)",
+              "display_html": "0.193 (0.184, 0.201)"
+            }
+          ]
+        },
+        {
+          "physical_row": 8,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "LightGBM",
+              "display_html": "LightGBM"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "98",
+              "display_html": "98"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.762 (0.738, 0.779)",
+              "display_html": "0.762 (0.738, 0.779)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.653 (0.626, 0.688)",
+              "display_html": "0.653 (0.626, 0.688)"
+            },
+            {
+              "physical_cell": 5,
+              "grid_column_start": 5,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.199 (0.191, 0.209)",
+              "display_html": "0.199 (0.191, 0.209)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "paragraph_number": 237,
+      "text": "Performance values are median (Q1, Q3), describing variation across overlapping partitions; they are not confidence intervals.",
+      "display_html": "Performance values are median (Q1, Q3), describing variation across overlapping partitions; they are not confidence intervals."
+    },
+    {
+      "type": "paragraph",
+      "paragraph_number": 238,
+      "text": "A. Calibration in the same nested evaluations",
+      "display_html": "A. Calibration in the same nested evaluations"
+    },
+    {
+      "type": "table",
+      "physical_table_number": 28,
+      "panel": "A. Calibration in the same nested evaluations",
+      "rows": [
+        {
+          "physical_row": 1,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Model",
+              "display_html": "Model"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Valid n",
+              "display_html": "Valid n"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "CITL",
+              "display_html": "CITL"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Calibration slope",
+              "display_html": "Calibration slope"
+            }
+          ]
+        },
+        {
+          "physical_row": 2,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Logistic regression",
+              "display_html": "Logistic regression"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "98",
+              "display_html": "98"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "-0.009 (-0.114, 0.064)",
+              "display_html": "-0.009 (-0.114, 0.064)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.881 (0.718, 1.098)",
+              "display_html": "0.881 (0.718, 1.098)"
+            }
+          ]
+        },
+        {
+          "physical_row": 3,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "LASSO",
+              "display_html": "LASSO"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "95",
+              "display_html": "95"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "-0.007 (-0.108, 0.054)",
+              "display_html": "-0.007 (-0.108, 0.054)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.993 (0.802, 1.323)",
+              "display_html": "0.993 (0.802, 1.323)"
+            }
+          ]
+        },
+        {
+          "physical_row": 4,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Elastic net",
+              "display_html": "Elastic net"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "95",
+              "display_html": "95"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "-0.012 (-0.077, 0.046)",
+              "display_html": "-0.012 (-0.077, 0.046)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "1.196 (0.914, 1.869)",
+              "display_html": "1.196 (0.914, 1.869)"
+            }
+          ]
+        },
+        {
+          "physical_row": 5,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Random forest",
+              "display_html": "Random forest"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "98",
+              "display_html": "98"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "-0.015 (-0.100, 0.077)",
+              "display_html": "-0.015 (-0.100, 0.077)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.861 (0.697, 1.023)",
+              "display_html": "0.861 (0.697, 1.023)"
+            }
+          ]
+        },
+        {
+          "physical_row": 6,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "XGBoost",
+              "display_html": "XGBoost"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "98",
+              "display_html": "98"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "-0.025 (-0.087, 0.059)",
+              "display_html": "-0.025 (-0.087, 0.059)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "1.039 (0.850, 1.209)",
+              "display_html": "1.039 (0.850, 1.209)"
+            }
+          ]
+        },
+        {
+          "physical_row": 7,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "RBF-SVM",
+              "display_html": "RBF-SVM"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "98",
+              "display_html": "98"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "-0.101 (-0.196, 0.005)",
+              "display_html": "-0.101 (-0.196, 0.005)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.932 (0.775, 1.107)",
+              "display_html": "0.932 (0.775, 1.107)"
+            }
+          ]
+        },
+        {
+          "physical_row": 8,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "LightGBM",
+              "display_html": "LightGBM"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "98",
+              "display_html": "98"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "-0.020 (-0.076, 0.043)",
+              "display_html": "-0.020 (-0.076, 0.043)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "1.159 (0.879, 1.595)",
+              "display_html": "1.159 (0.879, 1.595)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "paragraph_number": 239,
+      "text": "A. Execution denominators",
+      "display_html": "A. Execution denominators"
+    },
+    {
+      "type": "table",
+      "physical_table_number": 29,
+      "panel": "A. Execution denominators",
+      "rows": [
+        {
+          "physical_row": 1,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Model",
+              "display_html": "Model"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Planned",
+              "display_html": "Planned"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Primary eligible",
+              "display_html": "Primary eligible"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Successful (primary set)",
+              "display_html": "Successful (primary set)"
+            },
+            {
+              "physical_cell": 5,
+              "grid_column_start": 5,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Failed (primary set)",
+              "display_html": "Failed (primary set)"
+            }
+          ]
+        },
+        {
+          "physical_row": 2,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Logistic regression",
+              "display_html": "Logistic regression"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "100",
+              "display_html": "100"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "98",
+              "display_html": "98"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "98",
+              "display_html": "98"
+            },
+            {
+              "physical_cell": 5,
+              "grid_column_start": 5,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0",
+              "display_html": "0"
+            }
+          ]
+        },
+        {
+          "physical_row": 3,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "LASSO",
+              "display_html": "LASSO"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "100",
+              "display_html": "100"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "98",
+              "display_html": "98"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "95",
+              "display_html": "95"
+            },
+            {
+              "physical_cell": 5,
+              "grid_column_start": 5,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "3",
+              "display_html": "3"
+            }
+          ]
+        },
+        {
+          "physical_row": 4,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Elastic net",
+              "display_html": "Elastic net"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "100",
+              "display_html": "100"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "98",
+              "display_html": "98"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "95",
+              "display_html": "95"
+            },
+            {
+              "physical_cell": 5,
+              "grid_column_start": 5,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "3",
+              "display_html": "3"
+            }
+          ]
+        },
+        {
+          "physical_row": 5,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Random forest",
+              "display_html": "Random forest"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "100",
+              "display_html": "100"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "98",
+              "display_html": "98"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "98",
+              "display_html": "98"
+            },
+            {
+              "physical_cell": 5,
+              "grid_column_start": 5,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0",
+              "display_html": "0"
+            }
+          ]
+        },
+        {
+          "physical_row": 6,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "XGBoost",
+              "display_html": "XGBoost"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "100",
+              "display_html": "100"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "98",
+              "display_html": "98"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "98",
+              "display_html": "98"
+            },
+            {
+              "physical_cell": 5,
+              "grid_column_start": 5,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0",
+              "display_html": "0"
+            }
+          ]
+        },
+        {
+          "physical_row": 7,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "RBF-SVM",
+              "display_html": "RBF-SVM"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "100",
+              "display_html": "100"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "98",
+              "display_html": "98"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "98",
+              "display_html": "98"
+            },
+            {
+              "physical_cell": 5,
+              "grid_column_start": 5,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0",
+              "display_html": "0"
+            }
+          ]
+        },
+        {
+          "physical_row": 8,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "LightGBM",
+              "display_html": "LightGBM"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "100",
+              "display_html": "100"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "98",
+              "display_html": "98"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "98",
+              "display_html": "98"
+            },
+            {
+              "physical_cell": 5,
+              "grid_column_start": 5,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0",
+              "display_html": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "paragraph_number": 240,
+      "text": "Selection completed in all 100 planned partitions. Two partitions with unsupported categorical-predictor selection were excluded from the comparable set for every model. Three further single-predictor partitions failed for LASSO and elastic net because their fitting interface required at least two columns.",
+      "display_html": "Selection completed in all 100 planned partitions. Two partitions with unsupported categorical-predictor selection were excluded from the comparable set for every model. Three further single-predictor partitions failed for LASSO and elastic net because their fitting interface required at least two columns."
+    },
+    {
+      "type": "paragraph",
+      "paragraph_number": 241,
+      "text": "Overall successful/failed fits among all 100 partitions: logistic regression 100/0; LASSO 95/5; elastic net 95/5; random forest 100/0; XGBoost 98/2; RBF-SVM 98/2; LightGBM 100/0. Completed but excluded fits are distinct from failures. Failed fits were not imputed, replaced or retried.",
+      "display_html": "Overall successful/failed fits among all 100 partitions: logistic regression 100/0; LASSO 95/5; elastic net 95/5; random forest 100/0; XGBoost 98/2; RBF-SVM 98/2; LightGBM 100/0. Completed but excluded fits are distinct from failures. Failed fits were not imputed, replaced or retried."
+    },
+    {
+      "type": "paragraph",
+      "paragraph_number": 242,
+      "text": "B. Fixed model performance and calibration: internal validation",
+      "display_html": "B. Fixed model performance and calibration: internal validation"
+    },
+    {
+      "type": "table",
+      "physical_table_number": 30,
+      "panel": "B. Fixed model performance and calibration: internal validation",
+      "rows": [
+        {
+          "physical_row": 1,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Metric",
+              "display_html": "Metric"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "RBF-SVM",
+              "display_html": "RBF-SVM"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Core4 logistic",
+              "display_html": "Core4 logistic"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "MELD-Na benchmark",
+              "display_html": "MELD-Na benchmark"
+            }
+          ]
+        },
+        {
+          "physical_row": 2,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "AUROC",
+              "display_html": "AUROC"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.751",
+              "display_html": "0.751"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.762",
+              "display_html": "0.762"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.691",
+              "display_html": "0.691"
+            }
+          ]
+        },
+        {
+          "physical_row": 3,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "AP",
+              "display_html": "AP"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.672",
+              "display_html": "0.672"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.716",
+              "display_html": "0.716"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.620",
+              "display_html": "0.620"
+            }
+          ]
+        },
+        {
+          "physical_row": 4,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Brier",
+              "display_html": "Brier"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.199",
+              "display_html": "0.199"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.193",
+              "display_html": "0.193"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.218",
+              "display_html": "0.218"
+            }
+          ]
+        },
+        {
+          "physical_row": 5,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "CITL (95% CI)",
+              "display_html": "CITL (95% CI)"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.020 (-0.419 to 0.430)",
+              "display_html": "0.020 (-0.419 to 0.430)"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "-0.063 (-0.493 to 0.355)",
+              "display_html": "-0.063 (-0.493 to 0.355)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "-0.103 (-0.493 to 0.267)",
+              "display_html": "-0.103 (-0.493 to 0.267)"
+            }
+          ]
+        },
+        {
+          "physical_row": 6,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Calibration slope (95% CI)",
+              "display_html": "Calibration slope (95% CI)"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.822 (0.484 to 1.252)",
+              "display_html": "0.822 (0.484 to 1.252)"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.796 (0.480 to 1.268)",
+              "display_html": "0.796 (0.480 to 1.268)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.863 (0.442 to 1.413)",
+              "display_html": "0.863 (0.442 to 1.413)"
+            }
+          ]
+        },
+        {
+          "physical_row": 7,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "O/E (95% CI)",
+              "display_html": "O/E (95% CI)"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "1.009 (0.827 to 1.199)",
+              "display_html": "1.009 (0.827 to 1.199)"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.973 (0.801 to 1.148)",
+              "display_html": "0.973 (0.801 to 1.148)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.950 (0.770 to 1.133)",
+              "display_html": "0.950 (0.770 to 1.133)"
+            }
+          ]
+        },
+        {
+          "physical_row": 8,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Mean predicted probability (95% CI)",
+              "display_html": "Mean predicted probability (95% CI)"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.410 (0.369 to 0.452)",
+              "display_html": "0.410 (0.369 to 0.452)"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.425 (0.381 to 0.468)",
+              "display_html": "0.425 (0.381 to 0.468)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.435 (0.405 to 0.466)",
+              "display_html": "0.435 (0.405 to 0.466)"
+            }
+          ]
+        },
+        {
+          "physical_row": 9,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Observed event proportion (95% CI)",
+              "display_html": "Observed event proportion (95% CI)"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.414 (0.331 to 0.496)",
+              "display_html": "0.414 (0.331 to 0.496)"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.414 (0.331 to 0.496)",
+              "display_html": "0.414 (0.331 to 0.496)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.414 (0.331 to 0.496)",
+              "display_html": "0.414 (0.331 to 0.496)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "paragraph_number": 243,
+      "text": "AUROC, AP and Brier are saved point estimates; marginal confidence intervals are not supplied for these three metrics. Existing calibration and prediction-level confidence intervals are retained.",
+      "display_html": "AUROC, AP and Brier are saved point estimates; marginal confidence intervals are not supplied for these three metrics. Existing calibration and prediction-level confidence intervals are retained."
+    },
+    {
+      "type": "paragraph",
+      "paragraph_number": 244,
+      "text": "B. Fixed model performance and calibration: external evaluation",
+      "display_html": "B. Fixed model performance and calibration: external evaluation"
+    },
+    {
+      "type": "table",
+      "physical_table_number": 31,
+      "panel": "B. Fixed model performance and calibration: external evaluation",
+      "rows": [
+        {
+          "physical_row": 1,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Metric",
+              "display_html": "Metric"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "RBF-SVM",
+              "display_html": "RBF-SVM"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Core4 logistic",
+              "display_html": "Core4 logistic"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "MELD-Na benchmark",
+              "display_html": "MELD-Na benchmark"
+            }
+          ]
+        },
+        {
+          "physical_row": 2,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "AUROC",
+              "display_html": "AUROC"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.770",
+              "display_html": "0.770"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.712",
+              "display_html": "0.712"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.669",
+              "display_html": "0.669"
+            }
+          ]
+        },
+        {
+          "physical_row": 3,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "AP",
+              "display_html": "AP"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.853",
+              "display_html": "0.853"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.785",
+              "display_html": "0.785"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.732",
+              "display_html": "0.732"
+            }
+          ]
+        },
+        {
+          "physical_row": 4,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Brier",
+              "display_html": "Brier"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.199",
+              "display_html": "0.199"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.225",
+              "display_html": "0.225"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.214",
+              "display_html": "0.214"
+            }
+          ]
+        },
+        {
+          "physical_row": 5,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "CITL (95% CI)",
+              "display_html": "CITL (95% CI)"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.725 (0.159 to 1.272)",
+              "display_html": "0.725 (0.159 to 1.272)"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.781 (0.085 to 1.458)",
+              "display_html": "0.781 (0.085 to 1.458)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.055 (-0.730 to 0.682)",
+              "display_html": "0.055 (-0.730 to 0.682)"
+            }
+          ]
+        },
+        {
+          "physical_row": 6,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Calibration slope (95% CI)",
+              "display_html": "Calibration slope (95% CI)"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.853 (0.415 to 1.491)",
+              "display_html": "0.853 (0.415 to 1.491)"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.223 (-0.038 to 0.774)",
+              "display_html": "0.223 (-0.038 to 0.774)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.412 (0.022 to 0.931)",
+              "display_html": "0.412 (0.022 to 0.931)"
+            }
+          ]
+        },
+        {
+          "physical_row": 7,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "O/E (95% CI)",
+              "display_html": "O/E (95% CI)"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "1.251 (1.058 to 1.447)",
+              "display_html": "1.251 (1.058 to 1.447)"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "1.231 (1.027 to 1.467)",
+              "display_html": "1.231 (1.027 to 1.467)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "1.015 (0.811 to 1.178)",
+              "display_html": "1.015 (0.811 to 1.178)"
+            }
+          ]
+        },
+        {
+          "physical_row": 8,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Mean predicted probability (95% CI)",
+              "display_html": "Mean predicted probability (95% CI)"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.525 (0.432 to 0.606)",
+              "display_html": "0.525 (0.432 to 0.606)"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.533 (0.427 to 0.623)",
+              "display_html": "0.533 (0.427 to 0.623)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.647 (0.575 to 0.717)",
+              "display_html": "0.647 (0.575 to 0.717)"
+            }
+          ]
+        },
+        {
+          "physical_row": 9,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Observed event proportion (95% CI)",
+              "display_html": "Observed event proportion (95% CI)"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.657 (0.517 to 0.767)",
+              "display_html": "0.657 (0.517 to 0.767)"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.657 (0.517 to 0.767)",
+              "display_html": "0.657 (0.517 to 0.767)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.657 (0.517 to 0.767)",
+              "display_html": "0.657 (0.517 to 0.767)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "paragraph_number": 245,
+      "text": "AUROC, AP and Brier are saved point estimates; marginal confidence intervals are not supplied for these three metrics. Existing calibration and prediction-level confidence intervals are retained.",
+      "display_html": "AUROC, AP and Brier are saved point estimates; marginal confidence intervals are not supplied for these three metrics. Existing calibration and prediction-level confidence intervals are retained."
+    },
+    {
+      "type": "paragraph",
+      "paragraph_number": 246,
+      "text": "C. RBF-SVM versus MELD-Na: paired differences",
+      "display_html": "C. RBF-SVM versus MELD-Na: paired differences"
+    },
+    {
+      "type": "table",
+      "physical_table_number": 32,
+      "panel": "C. RBF-SVM versus MELD-Na: paired differences",
+      "rows": [
+        {
+          "physical_row": 1,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Cohort",
+              "display_html": "Cohort"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "AUROC difference (95% CI)",
+              "display_html": "AUROC difference (95% CI)"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "AP difference (95% CI)",
+              "display_html": "AP difference (95% CI)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Brier improvement (95% CI)",
+              "display_html": "Brier improvement (95% CI)"
+            }
+          ]
+        },
+        {
+          "physical_row": 2,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Internal validation",
+              "display_html": "Internal validation"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.060 (-0.021 to 0.141)",
+              "display_html": "0.060 (-0.021 to 0.141)"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.052 (-0.050 to 0.159)",
+              "display_html": "0.052 (-0.050 to 0.159)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.019 (-0.011 to 0.048)",
+              "display_html": "0.019 (-0.011 to 0.048)"
+            }
+          ]
+        },
+        {
+          "physical_row": 3,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "External evaluation",
+              "display_html": "External evaluation"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.100 (-0.029 to 0.233)",
+              "display_html": "0.100 (-0.029 to 0.233)"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.122 (0.001 to 0.230)",
+              "display_html": "0.122 (0.001 to 0.230)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.015 (-0.036 to 0.072)",
+              "display_html": "0.015 (-0.036 to 0.072)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "paragraph_number": 247,
+      "text": "AUROC and AP differences are RBF-SVM minus MELD-Na; Brier improvement is MELD-Na minus RBF-SVM. Positive values favor RBF-SVM.",
+      "display_html": "AUROC and AP differences are RBF-SVM minus MELD-Na; Brier improvement is MELD-Na minus RBF-SVM. Positive values favor RBF-SVM."
+    },
+    {
+      "type": "paragraph",
+      "paragraph_number": 248,
+      "text": "C. Other paired comparisons: internal validation",
+      "display_html": "C. Other paired comparisons: internal validation"
+    },
+    {
+      "type": "table",
+      "physical_table_number": 33,
+      "panel": "C. Other paired comparisons: internal validation",
+      "rows": [
+        {
+          "physical_row": 1,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Comparison (left minus right)",
+              "display_html": "Comparison (left minus right)"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "AUROC difference (95% CI)",
+              "display_html": "AUROC difference (95% CI)"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "AP difference (95% CI)",
+              "display_html": "AP difference (95% CI)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Brier difference (95% CI)",
+              "display_html": "Brier difference (95% CI)"
+            }
+          ]
+        },
+        {
+          "physical_row": 2,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Core4 logistic minus MELD-Na benchmark",
+              "display_html": "Core4 logistic minus MELD-Na benchmark"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.071 (-0.013 to 0.156)",
+              "display_html": "0.071 (-0.013 to 0.156)"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.096 (0.001 to 0.195)",
+              "display_html": "0.096 (0.001 to 0.195)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "-0.025 (-0.054 to 0.005)",
+              "display_html": "-0.025 (-0.054 to 0.005)"
+            }
+          ]
+        },
+        {
+          "physical_row": 3,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "RBF-SVM minus Core4 logistic",
+              "display_html": "RBF-SVM minus Core4 logistic"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "-0.012 (-0.038 to 0.014)",
+              "display_html": "-0.012 (-0.038 to 0.014)"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "-0.044 (-0.094 to 0.004)",
+              "display_html": "-0.044 (-0.094 to 0.004)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.006 (-0.004 to 0.016)",
+              "display_html": "0.006 (-0.004 to 0.016)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "paragraph_number": 249,
+      "text": "All three differences retain the left-minus-right direction. A negative Brier difference favors the left model.",
+      "display_html": "All three differences retain the left-minus-right direction. A negative Brier difference favors the left model."
+    },
+    {
+      "type": "paragraph",
+      "paragraph_number": 250,
+      "text": "C. Other paired comparisons: external evaluation",
+      "display_html": "C. Other paired comparisons: external evaluation"
+    },
+    {
+      "type": "table",
+      "physical_table_number": 34,
+      "panel": "C. Other paired comparisons: external evaluation",
+      "rows": [
+        {
+          "physical_row": 1,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Comparison (left minus right)",
+              "display_html": "Comparison (left minus right)"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "AUROC difference (95% CI)",
+              "display_html": "AUROC difference (95% CI)"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "AP difference (95% CI)",
+              "display_html": "AP difference (95% CI)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Brier difference (95% CI)",
+              "display_html": "Brier difference (95% CI)"
+            }
+          ]
+        },
+        {
+          "physical_row": 2,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Core4 logistic minus MELD-Na benchmark",
+              "display_html": "Core4 logistic minus MELD-Na benchmark"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.042 (-0.082 to 0.158)",
+              "display_html": "0.042 (-0.082 to 0.158)"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.054 (-0.043 to 0.140)",
+              "display_html": "0.054 (-0.043 to 0.140)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.011 (-0.041 to 0.065)",
+              "display_html": "0.011 (-0.041 to 0.065)"
+            }
+          ]
+        },
+        {
+          "physical_row": 3,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "RBF-SVM minus Core4 logistic",
+              "display_html": "RBF-SVM minus Core4 logistic"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.058 (-0.010 to 0.143)",
+              "display_html": "0.058 (-0.010 to 0.143)"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.068 (-0.018 to 0.169)",
+              "display_html": "0.068 (-0.018 to 0.169)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "-0.026 (-0.060 to -0.000)",
+              "display_html": "-0.026 (-0.060 to -0.000)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "paragraph_number": 251,
+      "text": "All three differences retain the left-minus-right direction. A negative Brier difference favors the left model.",
+      "display_html": "All three differences retain the left-minus-right direction. A negative Brier difference favors the left model."
+    },
+    {
+      "type": "paragraph",
+      "paragraph_number": 252,
+      "text": "D. Nested patient-level aggregate: coverage",
+      "display_html": "D. Nested patient-level aggregate: coverage"
+    },
+    {
+      "type": "table",
+      "physical_table_number": 35,
+      "panel": "D. Nested patient-level aggregate: coverage",
+      "rows": [
+        {
+          "physical_row": 1,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Patients",
+              "display_html": "Patients"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Events",
+              "display_html": "Events"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Paired partitions",
+              "display_html": "Paired partitions"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Total paired predictions",
+              "display_html": "Total paired predictions"
+            }
+          ]
+        },
+        {
+          "physical_row": 2,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "445",
+              "display_html": "445"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "185",
+              "display_html": "185"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "98",
+              "display_html": "98"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "13034",
+              "display_html": "13034"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "paragraph_number": 253,
+      "text": "D. Paired held-out predictions per patient",
+      "display_html": "D. Paired held-out predictions per patient"
+    },
+    {
+      "type": "table",
+      "physical_table_number": 36,
+      "panel": "D. Paired held-out predictions per patient",
+      "rows": [
+        {
+          "physical_row": 1,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Minimum",
+              "display_html": "Minimum"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Q1",
+              "display_html": "Q1"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Median",
+              "display_html": "Median"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Mean",
+              "display_html": "Mean"
+            },
+            {
+              "physical_cell": 5,
+              "grid_column_start": 5,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Q3",
+              "display_html": "Q3"
+            },
+            {
+              "physical_cell": 6,
+              "grid_column_start": 6,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Maximum",
+              "display_html": "Maximum"
+            }
+          ]
+        },
+        {
+          "physical_row": 2,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "15",
+              "display_html": "15"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "26",
+              "display_html": "26"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "29",
+              "display_html": "29"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "29.2899",
+              "display_html": "29.2899"
+            },
+            {
+              "physical_cell": 5,
+              "grid_column_start": 5,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "32",
+              "display_html": "32"
+            },
+            {
+              "physical_cell": 6,
+              "grid_column_start": 6,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "45",
+              "display_html": "45"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "paragraph_number": 254,
+      "text": "D. Nested patient-level aggregate: absolute and paired performance",
+      "display_html": "D. Nested patient-level aggregate: absolute and paired performance"
+    },
+    {
+      "type": "table",
+      "physical_table_number": 37,
+      "panel": "D. Nested patient-level aggregate: absolute and paired performance",
+      "rows": [
+        {
+          "physical_row": 1,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Metric",
+              "display_html": "Metric"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "RBF-SVM (95% CI)",
+              "display_html": "RBF-SVM (95% CI)"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "MELD-Na benchmark (95% CI)",
+              "display_html": "MELD-Na benchmark (95% CI)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Paired difference (95% CI)",
+              "display_html": "Paired difference (95% CI)"
+            }
+          ]
+        },
+        {
+          "physical_row": 2,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "AUROC",
+              "display_html": "AUROC"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.783 (0.739 to 0.824)",
+              "display_html": "0.783 (0.739 to 0.824)"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.722 (0.675 to 0.769)",
+              "display_html": "0.722 (0.675 to 0.769)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.061 (0.025 to 0.097)",
+              "display_html": "0.061 (0.025 to 0.097)"
+            }
+          ]
+        },
+        {
+          "physical_row": 3,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "AP",
+              "display_html": "AP"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.679 (0.606 to 0.760)",
+              "display_html": "0.679 (0.606 to 0.760)"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.618 (0.546 to 0.691)",
+              "display_html": "0.618 (0.546 to 0.691)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.061 (0.012 to 0.116)",
+              "display_html": "0.061 (0.012 to 0.116)"
+            }
+          ]
+        },
+        {
+          "physical_row": 4,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Brier",
+              "display_html": "Brier"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.189 (0.172 to 0.206)",
+              "display_html": "0.189 (0.172 to 0.206)"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.212 (0.196 to 0.228)",
+              "display_html": "0.212 (0.196 to 0.228)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.024 (0.010 to 0.036)",
+              "display_html": "0.024 (0.010 to 0.036)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "paragraph_number": 255,
+      "text": "AUROC/AP: RBF-SVM minus MELD-Na. Brier improvement: MELD-Na minus RBF-SVM. Positive paired values favor RBF-SVM.",
+      "display_html": "AUROC/AP: RBF-SVM minus MELD-Na. Brier improvement: MELD-Na minus RBF-SVM. Positive paired values favor RBF-SVM."
+    },
+    {
+      "type": "paragraph",
+      "paragraph_number": 256,
+      "text": "Each patient contributes the mean of paired predictions made only while that patient was held out. The saved intervals from 5,000 paired patient-bootstrap draws condition on those predictions and do not repeat model development. This aggregate describes the domestic cohort; it is not a third independent cohort or a single newly fitted model.",
+      "display_html": "Each patient contributes the mean of paired predictions made only while that patient was held out. The saved intervals from 5,000 paired patient-bootstrap draws condition on those predictions and do not repeat model development. This aggregate describes the domestic cohort; it is not a third independent cohort or a single newly fitted model."
+    },
+    {
+      "type": "paragraph",
+      "paragraph_number": 257,
+      "text": "Internal validation: 133 patients and 55 events. External evaluation: 102 hospitalization episodes from 50 patients, with 67 event episodes. AUROC/AP/Brier in B are point estimates; calibration and prediction summaries retain their existing intervals.",
+      "display_html": "Internal validation: 133 patients and 55 events. External evaluation: 102 hospitalization episodes from 50 patients, with 67 event episodes. AUROC/AP/Brier in B are point estimates; calibration and prediction summaries retain their existing intervals."
+    },
+    {
+      "type": "paragraph",
+      "paragraph_number": 258,
+      "text": "Fixed paired comparisons use patient resampling internally and patient-cluster resampling externally. Diagnostic calibration does not replace the original predictions. See Notes M2 and M4.",
+      "display_html": "Fixed paired comparisons use patient resampling internally and patient-cluster resampling externally. Diagnostic calibration does not replace the original predictions. See Notes M2 and M4."
+    },
+    {
+      "type": "paragraph",
+      "paragraph_number": 259,
+      "text": "Abbreviations: AUROC, area under the receiver operating characteristic curve; AP, average precision; CITL, calibration-in-the-large; CI, confidence interval; O/E, observed-to-expected ratio; Q1/Q3, first/third quartiles; LASSO, least absolute shrinkage and selection operator; RBF-SVM, radial-basis-function support vector machine; XGBoost, Extreme Gradient Boosting; LightGBM, Light Gradient Boosting Machine; MELD-Na, Model for End-Stage Liver Disease-sodium. Core4 comprises international normalized ratio, platelet count, albumin-bilirubin score and fibrosis-4 index.",
+      "display_html": "Abbreviations: AUROC, area under the receiver operating characteristic curve; AP, average precision; CITL, calibration-in-the-large; CI, confidence interval; O/E, observed-to-expected ratio; Q1/Q3, first/third quartiles; LASSO, least absolute shrinkage and selection operator; RBF-SVM, radial-basis-function support vector machine; XGBoost, Extreme Gradient Boosting; LightGBM, Light Gradient Boosting Machine; MELD-Na, Model for End-Stage Liver Disease-sodium. Core4 comprises international normalized ratio, platelet count, albumin-bilirubin score and fibrosis-4 index."
+    },
+    {
+      "type": "paragraph",
+      "paragraph_number": 260,
+      "text": "E. External model-ranking stability under patient-cluster bootstrap resampling",
+      "display_html": "E. External model-ranking stability under patient-cluster bootstrap resampling"
+    },
+    {
+      "type": "paragraph",
+      "paragraph_number": 261,
+      "text": "AUROC",
+      "display_html": "AUROC"
+    },
+    {
+      "type": "table",
+      "physical_table_number": 38,
+      "panel": "E. External model-ranking stability under patient-cluster bootstrap resampling",
+      "rows": [
+        {
+          "physical_row": 1,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Model",
+              "display_html": "Model"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Mean rank",
+              "display_html": "Mean rank"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "First-place share (%)",
+              "display_html": "First-place share (%)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Top-three share (%)",
+              "display_html": "Top-three share (%)"
+            }
+          ]
+        },
+        {
+          "physical_row": 2,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Logistic regression",
+              "display_html": "Logistic regression"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "4.38",
+              "display_html": "4.38"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "1.13",
+              "display_html": "1.13"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "28.19",
+              "display_html": "28.19"
+            }
+          ]
+        },
+        {
+          "physical_row": 3,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "LASSO",
+              "display_html": "LASSO"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "5.41",
+              "display_html": "5.41"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.11",
+              "display_html": "0.11"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "13.72",
+              "display_html": "13.72"
+            }
+          ]
+        },
+        {
+          "physical_row": 4,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Elastic net",
+              "display_html": "Elastic net"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "3.59",
+              "display_html": "3.59"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "6.40",
+              "display_html": "6.40"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "48.75",
+              "display_html": "48.75"
+            }
+          ]
+        },
+        {
+          "physical_row": 5,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Random forest",
+              "display_html": "Random forest"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "4.11",
+              "display_html": "4.11"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.31",
+              "display_html": "0.31"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "49.78",
+              "display_html": "49.78"
+            }
+          ]
+        },
+        {
+          "physical_row": 6,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "XGBoost",
+              "display_html": "XGBoost"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "3.31",
+              "display_html": "3.31"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "4.43",
+              "display_html": "4.43"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "62.11",
+              "display_html": "62.11"
+            }
+          ]
+        },
+        {
+          "physical_row": 7,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "RBF-SVM",
+              "display_html": "RBF-SVM"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "1.24",
+              "display_html": "1.24"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "87.62",
+              "display_html": "87.62"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "95.61",
+              "display_html": "95.61"
+            }
+          ]
+        },
+        {
+          "physical_row": 8,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "LightGBM",
+              "display_html": "LightGBM"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "5.96",
+              "display_html": "5.96"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.00",
+              "display_html": "0.00"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "1.84",
+              "display_html": "1.84"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "paragraph_number": 262,
+      "text": "AP",
+      "display_html": "AP"
+    },
+    {
+      "type": "table",
+      "physical_table_number": 39,
+      "panel": "E. External model-ranking stability under patient-cluster bootstrap resampling",
+      "rows": [
+        {
+          "physical_row": 1,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Model",
+              "display_html": "Model"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Mean rank",
+              "display_html": "Mean rank"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "First-place share (%)",
+              "display_html": "First-place share (%)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Top-three share (%)",
+              "display_html": "Top-three share (%)"
+            }
+          ]
+        },
+        {
+          "physical_row": 2,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Logistic regression",
+              "display_html": "Logistic regression"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "4.86",
+              "display_html": "4.86"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "1.00",
+              "display_html": "1.00"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "14.76",
+              "display_html": "14.76"
+            }
+          ]
+        },
+        {
+          "physical_row": 3,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "LASSO",
+              "display_html": "LASSO"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "6.16",
+              "display_html": "6.16"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.02",
+              "display_html": "0.02"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "5.40",
+              "display_html": "5.40"
+            }
+          ]
+        },
+        {
+          "physical_row": 4,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Elastic net",
+              "display_html": "Elastic net"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "4.34",
+              "display_html": "4.34"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "6.36",
+              "display_html": "6.36"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "25.00",
+              "display_html": "25.00"
+            }
+          ]
+        },
+        {
+          "physical_row": 5,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Random forest",
+              "display_html": "Random forest"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "3.36",
+              "display_html": "3.36"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "1.78",
+              "display_html": "1.78"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "73.60",
+              "display_html": "73.60"
+            }
+          ]
+        },
+        {
+          "physical_row": 6,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "XGBoost",
+              "display_html": "XGBoost"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "2.24",
+              "display_html": "2.24"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "28.74",
+              "display_html": "28.74"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "86.92",
+              "display_html": "86.92"
+            }
+          ]
+        },
+        {
+          "physical_row": 7,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "RBF-SVM",
+              "display_html": "RBF-SVM"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "1.73",
+              "display_html": "1.73"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "62.10",
+              "display_html": "62.10"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "91.80",
+              "display_html": "91.80"
+            }
+          ]
+        },
+        {
+          "physical_row": 8,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "LightGBM",
+              "display_html": "LightGBM"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "5.31",
+              "display_html": "5.31"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.00",
+              "display_html": "0.00"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "2.52",
+              "display_html": "2.52"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "paragraph_number": 263,
+      "text": "Brier score",
+      "display_html": "Brier score"
+    },
+    {
+      "type": "table",
+      "physical_table_number": 40,
+      "panel": "E. External model-ranking stability under patient-cluster bootstrap resampling",
+      "rows": [
+        {
+          "physical_row": 1,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Model",
+              "display_html": "Model"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Mean rank",
+              "display_html": "Mean rank"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "First-place share (%)",
+              "display_html": "First-place share (%)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Top-three share (%)",
+              "display_html": "Top-three share (%)"
+            }
+          ]
+        },
+        {
+          "physical_row": 2,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Logistic regression",
+              "display_html": "Logistic regression"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "5.16",
+              "display_html": "5.16"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.80",
+              "display_html": "0.80"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "12.36",
+              "display_html": "12.36"
+            }
+          ]
+        },
+        {
+          "physical_row": 3,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "LASSO",
+              "display_html": "LASSO"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "5.42",
+              "display_html": "5.42"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.14",
+              "display_html": "0.14"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "14.06",
+              "display_html": "14.06"
+            }
+          ]
+        },
+        {
+          "physical_row": 4,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Elastic net",
+              "display_html": "Elastic net"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "4.11",
+              "display_html": "4.11"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "4.60",
+              "display_html": "4.60"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "32.60",
+              "display_html": "32.60"
+            }
+          ]
+        },
+        {
+          "physical_row": 5,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Random forest",
+              "display_html": "Random forest"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "3.55",
+              "display_html": "3.55"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.92",
+              "display_html": "0.92"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "61.00",
+              "display_html": "61.00"
+            }
+          ]
+        },
+        {
+          "physical_row": 6,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "XGBoost",
+              "display_html": "XGBoost"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "3.35",
+              "display_html": "3.35"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "2.80",
+              "display_html": "2.80"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "65.62",
+              "display_html": "65.62"
+            }
+          ]
+        },
+        {
+          "physical_row": 7,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "RBF-SVM",
+              "display_html": "RBF-SVM"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "1.20",
+              "display_html": "1.20"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "89.54",
+              "display_html": "89.54"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "97.36",
+              "display_html": "97.36"
+            }
+          ]
+        },
+        {
+          "physical_row": 8,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "LightGBM",
+              "display_html": "LightGBM"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "5.21",
+              "display_html": "5.21"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "1.20",
+              "display_html": "1.20"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "17.00",
+              "display_html": "17.00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "paragraph_number": 264,
+      "text": "Rank summaries used 5,000 common patient-cluster bootstrap samples of the fixed external predictions (102 hospitalization episodes from 50 patients; 67 event episodes). In each sample, 50 patients were drawn with replacement, retaining all eligible episodes and their sampling multiplicities; performance remained episode-weighted. Models were ranked separately by higher AUROC, higher AP and lower Brier score, with rank 1 denoting the best value. Tied positions were equally apportioned using a numerical tolerance of 10⁻¹². Mean rank was averaged across samples; first-place and top-three shares sum the corresponding apportioned rank frequencies. All 5,000 samples were valid for each metric. Shares are descriptive resampling summaries, not probabilities that a model is truly optimal.",
+      "display_html": "Rank summaries used 5,000 common patient-cluster bootstrap samples of the fixed external predictions (102 hospitalization episodes from 50 patients; 67 event episodes). In each sample, 50 patients were drawn with replacement, retaining all eligible episodes and their sampling multiplicities; performance remained episode-weighted. Models were ranked separately by higher AUROC, higher AP and lower Brier score, with rank 1 denoting the best value. Tied positions were equally apportioned using a numerical tolerance of 10⁻¹². Mean rank was averaged across samples; first-place and top-three shares sum the corresponding apportioned rank frequencies. All 5,000 samples were valid for each metric. Shares are descriptive resampling summaries, not probabilities that a model is truly optimal."
+    },
+    {
+      "type": "paragraph",
+      "paragraph_number": 265,
+      "text": "Abbreviations: AUROC, area under the receiver operating characteristic curve; AP, average precision; LASSO, least absolute shrinkage and selection operator; RBF-SVM, radial-basis-function support vector machine; XGBoost, Extreme Gradient Boosting; LightGBM, Light Gradient Boosting Machine.",
+      "display_html": "Abbreviations: AUROC, area under the receiver operating characteristic curve; AP, average precision; LASSO, least absolute shrinkage and selection operator; RBF-SVM, radial-basis-function support vector machine; XGBoost, Extreme Gradient Boosting; LightGBM, Light Gradient Boosting Machine."
+    },
+    {
+      "type": "paragraph",
+      "paragraph_number": 266,
+      "text": "F. Paired external performance differences between RBF-SVM and the other candidate models",
+      "display_html": "F. Paired external performance differences between RBF-SVM and the other candidate models"
+    },
+    {
+      "type": "paragraph",
+      "paragraph_number": 267,
+      "text": "ΔAUROC (RBF-SVM minus comparator)",
+      "display_html": "ΔAUROC (RBF-SVM minus comparator)"
+    },
+    {
+      "type": "table",
+      "physical_table_number": 41,
+      "panel": "F. Paired external performance differences between RBF-SVM and the other candidate models",
+      "rows": [
+        {
+          "physical_row": 1,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Comparator",
+              "display_html": "Comparator"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Point difference (95% bootstrap CI)",
+              "display_html": "Point difference (95% bootstrap CI)"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "SVM-leading frequency (%)",
+              "display_html": "SVM-leading frequency (%)"
+            }
+          ]
+        },
+        {
+          "physical_row": 2,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Logistic regression",
+              "display_html": "Logistic regression"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "+0.0580 (-0.0104 to 0.1435)",
+              "display_html": "+0.0580 (-0.0104 to 0.1435)"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "94.68",
+              "display_html": "94.68"
+            }
+          ]
+        },
+        {
+          "physical_row": 3,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "LASSO",
+              "display_html": "LASSO"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "+0.0648 (-0.0068 to 0.1551)",
+              "display_html": "+0.0648 (-0.0068 to 0.1551)"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "95.94",
+              "display_html": "95.94"
+            }
+          ]
+        },
+        {
+          "physical_row": 4,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Elastic net",
+              "display_html": "Elastic net"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "+0.0525 (-0.0167 to 0.1381)",
+              "display_html": "+0.0525 (-0.0167 to 0.1381)"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "91.94",
+              "display_html": "91.94"
+            }
+          ]
+        },
+        {
+          "physical_row": 5,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Random forest",
+              "display_html": "Random forest"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "+0.0503 (0.0042 to 0.1173)",
+              "display_html": "+0.0503 (0.0042 to 0.1173)"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "98.66",
+              "display_html": "98.66"
+            }
+          ]
+        },
+        {
+          "physical_row": 6,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "XGBoost",
+              "display_html": "XGBoost"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "+0.0420 (-0.0083 to 0.1112)",
+              "display_html": "+0.0420 (-0.0083 to 0.1112)"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "94.32",
+              "display_html": "94.32"
+            }
+          ]
+        },
+        {
+          "physical_row": 7,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "LightGBM",
+              "display_html": "LightGBM"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "+0.0753 (0.0221 to 0.1458)",
+              "display_html": "+0.0753 (0.0221 to 0.1458)"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "99.80",
+              "display_html": "99.80"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "paragraph_number": 268,
+      "text": "ΔAP (RBF-SVM minus comparator)",
+      "display_html": "ΔAP (RBF-SVM minus comparator)"
+    },
+    {
+      "type": "table",
+      "physical_table_number": 42,
+      "panel": "F. Paired external performance differences between RBF-SVM and the other candidate models",
+      "rows": [
+        {
+          "physical_row": 1,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Comparator",
+              "display_html": "Comparator"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Point difference (95% bootstrap CI)",
+              "display_html": "Point difference (95% bootstrap CI)"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "SVM-leading frequency (%)",
+              "display_html": "SVM-leading frequency (%)"
+            }
+          ]
+        },
+        {
+          "physical_row": 2,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Logistic regression",
+              "display_html": "Logistic regression"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "+0.0678 (-0.0182 to 0.1691)",
+              "display_html": "+0.0678 (-0.0182 to 0.1691)"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "91.94",
+              "display_html": "91.94"
+            }
+          ]
+        },
+        {
+          "physical_row": 3,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "LASSO",
+              "display_html": "LASSO"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "+0.0774 (-0.0149 to 0.1793)",
+              "display_html": "+0.0774 (-0.0149 to 0.1793)"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "93.80",
+              "display_html": "93.80"
+            }
+          ]
+        },
+        {
+          "physical_row": 4,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Elastic net",
+              "display_html": "Elastic net"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "+0.0656 (-0.0231 to 0.1680)",
+              "display_html": "+0.0656 (-0.0231 to 0.1680)"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "90.08",
+              "display_html": "90.08"
+            }
+          ]
+        },
+        {
+          "physical_row": 5,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Random forest",
+              "display_html": "Random forest"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "+0.0193 (-0.0176 to 0.0948)",
+              "display_html": "+0.0193 (-0.0176 to 0.0948)"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "85.08",
+              "display_html": "85.08"
+            }
+          ]
+        },
+        {
+          "physical_row": 6,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "XGBoost",
+              "display_html": "XGBoost"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "+0.0044 (-0.0326 to 0.0884)",
+              "display_html": "+0.0044 (-0.0326 to 0.0884)"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "67.32",
+              "display_html": "67.32"
+            }
+          ]
+        },
+        {
+          "physical_row": 7,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "LightGBM",
+              "display_html": "LightGBM"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "+0.0544 (0.0056 to 0.1429)",
+              "display_html": "+0.0544 (0.0056 to 0.1429)"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "99.00",
+              "display_html": "99.00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "paragraph_number": 269,
+      "text": "Brier improvement (comparator minus RBF-SVM)",
+      "display_html": "Brier improvement (comparator minus RBF-SVM)"
+    },
+    {
+      "type": "table",
+      "physical_table_number": 43,
+      "panel": "F. Paired external performance differences between RBF-SVM and the other candidate models",
+      "rows": [
+        {
+          "physical_row": 1,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Comparator",
+              "display_html": "Comparator"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Point difference (95% bootstrap CI)",
+              "display_html": "Point difference (95% bootstrap CI)"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "SVM-leading frequency (%)",
+              "display_html": "SVM-leading frequency (%)"
+            }
+          ]
+        },
+        {
+          "physical_row": 2,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Logistic regression",
+              "display_html": "Logistic regression"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "+0.0256 (0.0000243 to 0.0600)",
+              "display_html": "+0.0256 (0.0000243 to 0.0600)"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "97.52",
+              "display_html": "97.52"
+            }
+          ]
+        },
+        {
+          "physical_row": 3,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "LASSO",
+              "display_html": "LASSO"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "+0.0262 (-0.0015 to 0.0608)",
+              "display_html": "+0.0262 (-0.0015 to 0.0608)"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "96.66",
+              "display_html": "96.66"
+            }
+          ]
+        },
+        {
+          "physical_row": 4,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Elastic net",
+              "display_html": "Elastic net"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "+0.0224 (-0.0057 to 0.0555)",
+              "display_html": "+0.0224 (-0.0057 to 0.0555)"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "94.20",
+              "display_html": "94.20"
+            }
+          ]
+        },
+        {
+          "physical_row": 5,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Random forest",
+              "display_html": "Random forest"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "+0.0161 (0.0003 to 0.0336)",
+              "display_html": "+0.0161 (0.0003 to 0.0336)"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "97.64",
+              "display_html": "97.64"
+            }
+          ]
+        },
+        {
+          "physical_row": 6,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "XGBoost",
+              "display_html": "XGBoost"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "+0.0156 (-0.0021 to 0.0349)",
+              "display_html": "+0.0156 (-0.0021 to 0.0349)"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "95.94",
+              "display_html": "95.94"
+            }
+          ]
+        },
+        {
+          "physical_row": 7,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "LightGBM",
+              "display_html": "LightGBM"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "+0.0264 (0.0019 to 0.0483)",
+              "display_html": "+0.0264 (0.0019 to 0.0483)"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "98.16",
+              "display_html": "98.16"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "paragraph_number": 270,
+      "text": "Point differences were calculated in the complete external cohort. Paired 95% percentile bootstrap CIs are the 2.5th and 97.5th percentiles of within-sample differences from the same 5,000 patient-cluster samples used in panel E. Differences are RBF-SVM minus comparator for AUROC and AP, and comparator minus RBF-SVM for Brier; positive values favor RBF-SVM. SVM-leading frequency is the proportion of valid samples with a difference greater than 10⁻¹², with ties retained in the denominator; it is not a P value. All 5,000 samples were valid for each comparison. The CIs are comparison-specific and unadjusted for multiplicity. Additional digits are retained for near-zero interval limits. Panels E and F summarize fixed predictions in the same external cohort: models were not refitted, and this exploratory analysis does not provide independent validation or adjust for model selection.",
+      "display_html": "Point differences were calculated in the complete external cohort. Paired 95% percentile bootstrap CIs are the 2.5th and 97.5th percentiles of within-sample differences from the same 5,000 patient-cluster samples used in panel E. Differences are RBF-SVM minus comparator for AUROC and AP, and comparator minus RBF-SVM for Brier; positive values favor RBF-SVM. SVM-leading frequency is the proportion of valid samples with a difference greater than 10⁻¹², with ties retained in the denominator; it is not a P value. All 5,000 samples were valid for each comparison. The CIs are comparison-specific and unadjusted for multiplicity. Additional digits are retained for near-zero interval limits. Panels E and F summarize fixed predictions in the same external cohort: models were not refitted, and this exploratory analysis does not provide independent validation or adjust for model selection."
+    },
+    {
+      "type": "paragraph",
+      "paragraph_number": 271,
+      "text": "Abbreviations: CI, confidence interval; AUROC, area under the receiver operating characteristic curve; AP, average precision; LASSO, least absolute shrinkage and selection operator; RBF-SVM, radial-basis-function support vector machine; XGBoost, Extreme Gradient Boosting; LightGBM, Light Gradient Boosting Machine.",
+      "display_html": "Abbreviations: CI, confidence interval; AUROC, area under the receiver operating characteristic curve; AP, average precision; LASSO, least absolute shrinkage and selection operator; RBF-SVM, radial-basis-function support vector machine; XGBoost, Extreme Gradient Boosting; LightGBM, Light Gradient Boosting Machine."
+    },
+    {
+      "type": "paragraph",
+      "paragraph_number": 272,
+      "text": "",
+      "display_html": ""
+    }
+  ]
+}

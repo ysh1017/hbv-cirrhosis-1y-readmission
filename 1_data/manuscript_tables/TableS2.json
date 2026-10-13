@@ -1,0 +1,1220 @@
+{
+  "table_id": "TableS2",
+  "title": "Supplementary Table S2  External cohort characteristics and case-mix comparison",
+  "source_manuscript": "HBV_Chinese_Manuscript_20261013.docx",
+  "source_sha256": "f3f9239f9989353e8083b1234892624a850017b8bdc60d014e9825ba6e083ef3",
+  "data_state": "Exact published display strings, not individual-level records or full-precision analysis inputs",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "paragraph_number": 186,
+      "text": "Supplementary Table S2  External cohort characteristics and case-mix comparison",
+      "display_html": "Supplementary Table S2  External cohort characteristics and case-mix comparison"
+    },
+    {
+      "type": "paragraph",
+      "paragraph_number": 187,
+      "text": "A External cohort structure and index-hospitalization profile",
+      "display_html": "A External cohort structure and index-hospitalization profile"
+    },
+    {
+      "type": "table",
+      "physical_table_number": 7,
+      "panel": "A External cohort structure and index-hospitalization profile",
+      "rows": [
+        {
+          "physical_row": 1,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Characteristic",
+              "display_html": "Characteristic"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "External cohort",
+              "display_html": "External cohort"
+            }
+          ]
+        },
+        {
+          "physical_row": 2,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Cohort structure",
+              "display_html": "Cohort structure"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "",
+              "display_html": ""
+            }
+          ]
+        },
+        {
+          "physical_row": 3,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Eligible index hospitalization episodes",
+              "display_html": "Eligible index hospitalization episodes"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "102",
+              "display_html": "102"
+            }
+          ]
+        },
+        {
+          "physical_row": 4,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Unique patients",
+              "display_html": "Unique patients"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "50",
+              "display_html": "50"
+            }
+          ]
+        },
+        {
+          "physical_row": 5,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Eligible episodes per patient",
+              "display_html": "Eligible episodes per patient"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "1.00 [1.00, 2.75]",
+              "display_html": "1.00 [1.00, 2.75]"
+            }
+          ]
+        },
+        {
+          "physical_row": 6,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Patients contributing 1 eligible episode",
+              "display_html": "Patients contributing 1 eligible episode"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "34 (68.0%)",
+              "display_html": "34 (68.0%)"
+            }
+          ]
+        },
+        {
+          "physical_row": 7,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Patients contributing 2 eligible episodes",
+              "display_html": "Patients contributing 2 eligible episodes"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "3 (6.0%)",
+              "display_html": "3 (6.0%)"
+            }
+          ]
+        },
+        {
+          "physical_row": 8,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Patients contributing ≥3 eligible episodes",
+              "display_html": "Patients contributing ≥3 eligible episodes"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "13 (26.0%)",
+              "display_html": "13 (26.0%)"
+            }
+          ]
+        },
+        {
+          "physical_row": 9,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "1-year readmission events",
+              "display_html": "1-year readmission events"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "67/102 (65.7%)",
+              "display_html": "67/102 (65.7%)"
+            }
+          ]
+        },
+        {
+          "physical_row": 10,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Demographics",
+              "display_html": "Demographics"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "",
+              "display_html": ""
+            }
+          ]
+        },
+        {
+          "physical_row": 11,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Age, years",
+              "display_html": "Age, years"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "58.00 [54.00, 65.00]",
+              "display_html": "58.00 [54.00, 65.00]"
+            }
+          ]
+        },
+        {
+          "physical_row": 12,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Male sex",
+              "display_html": "Male sex"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "86/102 (84.3%)",
+              "display_html": "86/102 (84.3%)"
+            }
+          ]
+        },
+        {
+          "physical_row": 13,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Race/ethnicity, n (%)",
+              "display_html": "Race/ethnicity, n (%)"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "",
+              "display_html": ""
+            }
+          ]
+        },
+        {
+          "physical_row": 14,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Asian",
+              "display_html": "Asian"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "26 (25.5%)",
+              "display_html": "26 (25.5%)"
+            }
+          ]
+        },
+        {
+          "physical_row": 15,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Black",
+              "display_html": "Black"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "12 (11.8%)",
+              "display_html": "12 (11.8%)"
+            }
+          ]
+        },
+        {
+          "physical_row": 16,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Hispanic/Latino",
+              "display_html": "Hispanic/Latino"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "10 (9.8%)",
+              "display_html": "10 (9.8%)"
+            }
+          ]
+        },
+        {
+          "physical_row": 17,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "White",
+              "display_html": "White"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "52 (51.0%)",
+              "display_html": "52 (51.0%)"
+            }
+          ]
+        },
+        {
+          "physical_row": 18,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Other/unknown",
+              "display_html": "Other/unknown"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "2 (2.0%)",
+              "display_html": "2 (2.0%)"
+            }
+          ]
+        },
+        {
+          "physical_row": 19,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Index hospitalization characteristics",
+              "display_html": "Index hospitalization characteristics"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "",
+              "display_html": ""
+            }
+          ]
+        },
+        {
+          "physical_row": 20,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Hospital length of stay, days",
+              "display_html": "Hospital length of stay, days"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "4.16 [2.55, 6.89]",
+              "display_html": "4.16 [2.55, 6.89]"
+            }
+          ]
+        },
+        {
+          "physical_row": 21,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Any ICU admission during index hospitalization",
+              "display_html": "Any ICU admission during index hospitalization"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "13/102 (12.7%)",
+              "display_html": "13/102 (12.7%)"
+            }
+          ]
+        },
+        {
+          "physical_row": 22,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "ICU length of stay among ICU-exposed episodes, days",
+              "display_html": "ICU length of stay among ICU-exposed episodes, days"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "1.80 [0.89, 2.10]; n = 13",
+              "display_html": "1.80 [0.89, 2.10]; n = 13"
+            }
+          ]
+        },
+        {
+          "physical_row": 23,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Index decompensation manifestations, n/N (%)",
+              "display_html": "Index decompensation manifestations, n/N (%)"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "",
+              "display_html": ""
+            }
+          ]
+        },
+        {
+          "physical_row": 24,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Ascites",
+              "display_html": "Ascites"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "84/101 (83.2%)",
+              "display_html": "84/101 (83.2%)"
+            }
+          ]
+        },
+        {
+          "physical_row": 25,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Hepatic encephalopathy",
+              "display_html": "Hepatic encephalopathy"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "26/101 (25.7%)",
+              "display_html": "26/101 (25.7%)"
+            }
+          ]
+        },
+        {
+          "physical_row": 26,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Variceal bleeding",
+              "display_html": "Variceal bleeding"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "7/101 (6.9%)",
+              "display_html": "7/101 (6.9%)"
+            }
+          ]
+        },
+        {
+          "physical_row": 27,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Spontaneous bacterial peritonitis",
+              "display_html": "Spontaneous bacterial peritonitis"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "8/101 (7.9%)",
+              "display_html": "8/101 (7.9%)"
+            }
+          ]
+        },
+        {
+          "physical_row": 28,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Hepatorenal syndrome",
+              "display_html": "Hepatorenal syndrome"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "2/101 (2.0%)",
+              "display_html": "2/101 (2.0%)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "paragraph_number": 188,
+      "text": "B Domestic and external case-mix comparison",
+      "display_html": "B Domestic and external case-mix comparison"
+    },
+    {
+      "type": "table",
+      "physical_table_number": 8,
+      "panel": "B Domestic and external case-mix comparison",
+      "rows": [
+        {
+          "physical_row": 1,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Characteristic",
+              "display_html": "Characteristic"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Domestic (N = 445 patients)",
+              "display_html": "Domestic (N = 445 patients)"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "External (N = 102 episodes)",
+              "display_html": "External (N = 102 episodes)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "SMD",
+              "display_html": "SMD"
+            }
+          ]
+        },
+        {
+          "physical_row": 2,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Demographics",
+              "display_html": "Demographics"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "",
+              "display_html": ""
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "",
+              "display_html": ""
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "",
+              "display_html": ""
+            }
+          ]
+        },
+        {
+          "physical_row": 3,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Age, years",
+              "display_html": "Age, years"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "52.00 [45.00, 61.00]",
+              "display_html": "52.00 [45.00, 61.00]"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "58.00 [54.00, 65.00]",
+              "display_html": "58.00 [54.00, 65.00]"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "-0.582",
+              "display_html": "-0.582"
+            }
+          ]
+        },
+        {
+          "physical_row": 4,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Male sex",
+              "display_html": "Male sex"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "313/445 (70.3%)",
+              "display_html": "313/445 (70.3%)"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "86/102 (84.3%)",
+              "display_html": "86/102 (84.3%)"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "-0.339",
+              "display_html": "-0.339"
+            }
+          ]
+        },
+        {
+          "physical_row": 5,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Liver and laboratory profile",
+              "display_html": "Liver and laboratory profile"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "",
+              "display_html": ""
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "",
+              "display_html": ""
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "",
+              "display_html": ""
+            }
+          ]
+        },
+        {
+          "physical_row": 6,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Albumin, g/L",
+              "display_html": "Albumin, g/L"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "29.00 [26.00, 34.00]",
+              "display_html": "29.00 [26.00, 34.00]"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "29.00 [26.00, 34.00]",
+              "display_html": "29.00 [26.00, 34.00]"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.036",
+              "display_html": "0.036"
+            }
+          ]
+        },
+        {
+          "physical_row": 7,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Total bilirubin, μmol/L",
+              "display_html": "Total bilirubin, μmol/L"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "24.70 [15.70, 41.00]",
+              "display_html": "24.70 [15.70, 41.00]"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "35.91 [17.10, 63.27]",
+              "display_html": "35.91 [17.10, 63.27]"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "-0.411",
+              "display_html": "-0.411"
+            }
+          ]
+        },
+        {
+          "physical_row": 8,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "INR, frozen Core4 input",
+              "display_html": "INR, frozen Core4 input"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "1.37 [1.22, 1.52]",
+              "display_html": "1.37 [1.22, 1.52]"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "1.50 [1.40, 1.70]",
+              "display_html": "1.50 [1.40, 1.70]"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "-0.504",
+              "display_html": "-0.504"
+            }
+          ]
+        },
+        {
+          "physical_row": 9,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Platelet count, ×10^9/L",
+              "display_html": "Platelet count, ×10^9/L"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "63.00 [44.00, 95.00]",
+              "display_html": "63.00 [44.00, 95.00]"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "67.50 [42.50, 101.75]",
+              "display_html": "67.50 [42.50, 101.75]"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "-0.076",
+              "display_html": "-0.076"
+            }
+          ]
+        },
+        {
+          "physical_row": 10,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Creatinine used for MELD-Na, μmol/L",
+              "display_html": "Creatinine used for MELD-Na, μmol/L"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "67.00 [56.00, 79.00]",
+              "display_html": "67.00 [56.00, 79.00]"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "88.40 [70.72, 112.71]",
+              "display_html": "88.40 [70.72, 112.71]"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "-0.606",
+              "display_html": "-0.606"
+            }
+          ]
+        },
+        {
+          "physical_row": 11,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Sodium used for MELD-Na, mmol/L",
+              "display_html": "Sodium used for MELD-Na, mmol/L"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "139.00 [137.00, 141.00]",
+              "display_html": "139.00 [137.00, 141.00]"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "135.00 [131.00, 138.75]",
+              "display_html": "135.00 [131.00, 138.75]"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "0.921",
+              "display_html": "0.921"
+            }
+          ]
+        },
+        {
+          "physical_row": 12,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "Composite liver-disease indices",
+              "display_html": "Composite liver-disease indices"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "",
+              "display_html": ""
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "",
+              "display_html": ""
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "",
+              "display_html": ""
+            }
+          ]
+        },
+        {
+          "physical_row": 13,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "ALBI score",
+              "display_html": "ALBI score"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "-1.62 [-2.02, -1.22]",
+              "display_html": "-1.62 [-2.02, -1.22]"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "-1.49 [-1.95, -1.09]",
+              "display_html": "-1.49 [-1.95, -1.09]"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "-0.165",
+              "display_html": "-0.165"
+            }
+          ]
+        },
+        {
+          "physical_row": 14,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "FIB-4",
+              "display_html": "FIB-4"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "5.76 [3.38, 10.53]",
+              "display_html": "5.76 [3.38, 10.53]"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "9.65 [5.60, 15.39]",
+              "display_html": "9.65 [5.60, 15.39]"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "-0.484",
+              "display_html": "-0.484"
+            }
+          ]
+        },
+        {
+          "physical_row": 15,
+          "cells": [
+            {
+              "physical_cell": 1,
+              "grid_column_start": 1,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "MELD-Na, current benchmark profile",
+              "display_html": "MELD-Na, current benchmark profile"
+            },
+            {
+              "physical_cell": 2,
+              "grid_column_start": 2,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "12.47 [9.99, 15.54]",
+              "display_html": "12.47 [9.99, 15.54]"
+            },
+            {
+              "physical_cell": 3,
+              "grid_column_start": 3,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "18.43 [13.89, 23.69]",
+              "display_html": "18.43 [13.89, 23.69]"
+            },
+            {
+              "physical_cell": 4,
+              "grid_column_start": 4,
+              "grid_span": 1,
+              "vertical_merge": null,
+              "text": "-1.044",
+              "display_html": "-1.044"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "paragraph_number": 189,
+      "text": "Values are median [Q1, Q3] or n/N (%), unless stated otherwise. The external analysis unit is the hospitalization episode; patient identity is the clustering unit for uncertainty estimation. Patient-contribution percentages use 50 patients; race/ethnicity percentages use 102 episodes. ICU length of stay is summarized among the 13 ICU-exposed episodes.",
+      "display_html": "Values are median [Q1, Q3] or n/N (%), unless stated otherwise. The external analysis unit is the hospitalization episode; patient identity is the clustering unit for uncertainty estimation. Patient-contribution percentages use 50 patients; race/ethnicity percentages use 102 episodes. ICU length of stay is summarized among the 13 ICU-exposed episodes."
+    },
+    {
+      "type": "paragraph",
+      "paragraph_number": 190,
+      "text": "Index decompensation manifestations are based on the previously adjudicated MIMIC-specific structured-data assessment. They are not mutually exclusive; denominators reflect available adjudicated phenotype-support information. Race/ethnicity categories were collapsed from recorded MIMIC-IV categories for description.",
+      "display_html": "Index decompensation manifestations are based on the previously adjudicated MIMIC-specific structured-data assessment. They are not mutually exclusive; denominators reflect available adjudicated phenotype-support information. Race/ethnicity categories were collapsed from recorded MIMIC-IV categories for description."
+    },
+    {
+      "type": "paragraph",
+      "paragraph_number": 191,
+      "text": "SMD is domestic minus external using pooled standard deviations; positive values indicate higher domestic values. SMDs describe case mix and were not used for hypothesis testing or model selection. Domestic predictors reflected index-admission status; external values were aligned to admission as closely as available data allowed. These comparisons do not establish causal explanations for performance differences.",
+      "display_html": "SMD is domestic minus external using pooled standard deviations; positive values indicate higher domestic values. SMDs describe case mix and were not used for hypothesis testing or model selection. Domestic predictors reflected index-admission status; external values were aligned to admission as closely as available data allowed. These comparisons do not establish causal explanations for performance differences."
+    },
+    {
+      "type": "paragraph",
+      "paragraph_number": 192,
+      "text": "The admission-oriented observed-measurement hierarchy and its exceptions are described in Note M1.",
+      "display_html": "The admission-oriented observed-measurement hierarchy and its exceptions are described in Note M1."
+    },
+    {
+      "type": "paragraph",
+      "paragraph_number": 193,
+      "text": "Abbreviations: ICU, intensive care unit; MIMIC, Medical Information Mart for Intensive Care; SMD, standardized mean difference; INR, international normalized ratio; ALBI, albumin-bilirubin score; FIB-4, fibrosis-4 index; MELD-Na, Model for End-Stage Liver Disease-sodium; Q1/Q3, first/third quartiles. Core4 comprises INR, platelet count, ALBI and FIB-4.",
+      "display_html": "Abbreviations: ICU, intensive care unit; MIMIC, Medical Information Mart for Intensive Care; SMD, standardized mean difference; INR, international normalized ratio; ALBI, albumin-bilirubin score; FIB-4, fibrosis-4 index; MELD-Na, Model for End-Stage Liver Disease-sodium; Q1/Q3, first/third quartiles. Core4 comprises INR, platelet count, ALBI and FIB-4."
+    },
+    {
+      "type": "paragraph",
+      "paragraph_number": 194,
+      "text": "",
+      "display_html": ""
+    }
+  ]
+}
