@@ -1,6 +1,10 @@
 # HBV相关失代偿期肝硬化一年再入院预测研究
 
-本仓库公开当前论文采用的稿件、图表和汇总结果。内容依据作者提供的2026年10月13日中文全文总稿，比较7种候选模型，包含正文Figure 1–5、Table 1–3，以及Supplementary Figure S1–S2、Table S1–S7。S5E/F的外部患者聚类重采样结果已包含。
+本仓库保留作者2026年10月13日中文公开稿、原图表及汇总结果，同时提供2026年10月18日核定的HI工作版在线补充材料与图形。较新HI结构为5幅主图、Table 1 a/b、2幅补图、Tables S1–S9及Notes M1–M7；旧中文版本的3张主表不作为当前HI编号。S5E/F的外部患者聚类重采样结果已包含。材料仍属作者公开工作稿，不表示已投稿、接收或发表。
+
+[2026-10-18 HI材料入口](6_release/HI_20261018/README.md) · [Online Resource 1 / ESM](6_release/HI_20261018/ESM_1.pdf)
+
+编号对应：旧Table 2 → 当前Table 1 a/b；旧Table 1 → 当前Online Table S8；旧Table 3 → 当前Online Table S9。旧中文稿及其图表链接继续保留；旧汇总JSON/Markdown不在本轮重新制表或重编号。
 
 [按顺序查看全部图表](PUBLICATION_INDEX.md) · [中文完整稿件](5_manuscript/HBV_Chinese_Manuscript_20261013.md) · [下载Word](5_manuscript/HBV_Chinese_Manuscript_20261013.docx)
 
@@ -21,8 +25,8 @@
 | [2_code](2_code) | 文件完整性核验代码、现稿模型配置说明 |
 | [3_results](3_results) | 主表与补表的在线阅读版，以及独立主表文件 |
 | [4_figures](4_figures) | 5幅主图、2幅补图的PDF/PNG及图注 |
-| [5_manuscript](5_manuscript) | 作者提供的最新中文总稿及在线阅读版 |
-| [6_release](6_release) | 当前公开文件的SHA-256清单和发布说明 |
+| [5_manuscript](5_manuscript) | 保留2026-10-13中文公开稿及在线阅读版 |
+| [6_release](6_release) | 2026-10-18 HI补充材料与图形、文件SHA-256清单及发布说明 |
 | [7.Report](7.Report) | 当前结果概览、公开材料核对范围 |
 
 ## 数据和复现边界
@@ -39,4 +43,4 @@
 
 ## English overview
 
-Current manuscript materials for prediction of 1-year unplanned decompensation-related readmission in HBV-related decompensated cirrhosis. This public repository contains the current Chinese manuscript, five main figures, three main tables, two supplementary figures, seven supplementary tables, and manuscript-level aggregate data. It does not distribute individual-level clinical data, restricted MIMIC records, trained model objects, or the full research execution pipeline.
+Manuscript preparation materials for prediction of 1-year unplanned decompensation-related readmission in HBV-related decompensated cirrhosis. This repository retains the 13 October 2026 Chinese public manuscript and its original figures, tables and aggregate data, and adds the approved 18 October 2026 HI working-version online resource and figures. The newer HI structure comprises five main figures, Table 1 a/b, two supplementary figures, Tables S1–S9 and Notes M1–M7. See the [HI version entry](6_release/HI_20261018/README.md) and [Online Resource 1](6_release/HI_20261018/ESM_1.pdf). These are author working materials, not evidence of journal acceptance or publication. Individual-level clinical data, restricted MIMIC records, trained model objects and the full research execution pipeline are not distributed.
