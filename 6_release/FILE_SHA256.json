@@ -294,13 +294,13 @@
     },
     {
       "path": "6_release/HI_20261018/ESM_1.pdf",
-      "bytes": 2107381,
-      "sha256": "1ec8a39a5c112222e32fd651fea7b7effc8092257278b5cc52b1b0ba4976ff94"
+      "bytes": 2391171,
+      "sha256": "97dfa86533f3c8686de6304dbf5c49141d3ef7f46962c45d125092965a262012"
     },
     {
       "path": "6_release/HI_20261018/FIGURE_LEGENDS.md",
-      "bytes": 5624,
-      "sha256": "a87753e399d79d12fdaed0912a84cb61f4a909d3254c2b03081f3e31d20498e1"
+      "bytes": 5418,
+      "sha256": "d209d14643e9714f8387ad9f68c5f57f4e8cefbfb366818a2ce5a8760e1a7aec"
     },
     {
       "path": "6_release/HI_20261018/figures/Fig2.pdf",
@@ -339,13 +339,13 @@
     },
     {
       "path": "6_release/HI_20261018/README.md",
-      "bytes": 3911,
-      "sha256": "d0b0d3bad6c819682799661b28a4e470157300c53d0fbd6180c0bbeb83fda0ba"
+      "bytes": 4201,
+      "sha256": "352c45574e90761f693402a28b3e7647e09f2bf1205929b33d24ee4c72a02db4"
     },
     {
       "path": "6_release/HI_20261018/SHA256SUMS.txt",
       "bytes": 833,
-      "sha256": "e9b2ae756cef3f064ef42931a462fd79cf9b2bb94b3e11bf1e9cc64601a4c5ad"
+      "sha256": "eb9ad3f5bcddbae72c89d4f91f3ee86865c66d354729dd6be440752d5d58e02f"
     }
   ]
 }
