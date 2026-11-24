@@ -1,0 +1,6 @@
+scope,study_records_or_admissions,distinct_patients_when_reported,events
+China records,453,,193
+Fixed development records,317,,135
+Fixed internal validation records,136,,58
+Exploratory external evaluation eligible admissions,102,50,67
+First eligible external admission per patient,50,50,25

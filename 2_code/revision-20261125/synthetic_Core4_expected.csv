@@ -1,0 +1,7 @@
+example_id,algorithm,probability_yes
+synthetic_01,SVM_RBF,0.100509544252305
+synthetic_02,SVM_RBF,0.58650160546618
+synthetic_01,LASSO,0.0765339445711954
+synthetic_02,LASSO,0.603924210446562
+synthetic_01,Logistic,0.0610398721800388
+synthetic_02,Logistic,0.614457288791136

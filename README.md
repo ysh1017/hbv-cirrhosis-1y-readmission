@@ -1,3 +1,13 @@
+# HBV-related decompensated cirrhosis readmission prediction
+
+**Latest version: 453-record revision (25 November 2026).** [Release](https://github.com/ysh1017/hbv-cirrhosis-1y-readmission/releases/tag/revision-20261125) · [Cohorts, code, and aggregate results](6_release/revision-20261125/README.md) · [Reproducibility code](2_code/revision-20261125).
+
+The revision contains 453 Chinese study records (317 development, 136 fixed internal validation; 193 target events). The MIMIC-IV cohort comprises 102 eligible admissions from 50 patients. External results informed model selection and are exploratory. The first eligible index analysis includes the same 50 patients once each. Clinical records, trained model objects, and restricted MIMIC-IV data are not distributed. The existing rights and use notice continues to apply.
+
+**当前版本为453条研究记录的返修版。** 上方版本入口提供数据口径、代码、合成运行示例及选定汇总结果。原445条记录的公开资料和历史提交保留在下方。
+
+## Archived October releases
+
 # HBV相关失代偿期肝硬化一年再入院预测研究
 
 本仓库保留作者2026年10月13日中文公开稿、原图表及汇总结果，同时提供2026年10月18日核定的HI工作版在线补充材料与图形。较新HI结构为5幅主图、Table 1 a/b、2幅补图、Tables S1–S9及Notes M1–M7；旧中文版本的3张主表不作为当前HI编号。S5E/F的外部患者聚类重采样结果已包含。材料仍属作者公开工作稿，不表示已投稿、接收或发表。

@@ -1,0 +1,15 @@
+record,cluster,outcome,first_eligible,model_a,model_b
+synthetic_r01,synthetic_g01,1,1,0.64,0.59
+synthetic_r02,synthetic_g01,0,0,0.36,0.29
+synthetic_r03,synthetic_g02,0,1,0.48,0.40
+synthetic_r04,synthetic_g03,1,1,0.33,0.35
+synthetic_r05,synthetic_g04,0,1,0.21,0.46
+synthetic_r06,synthetic_g04,1,0,0.73,0.62
+synthetic_r07,synthetic_g05,1,1,0.54,0.56
+synthetic_r08,synthetic_g06,0,1,0.31,0.23
+synthetic_r09,synthetic_g06,0,0,0.29,0.27
+synthetic_r10,synthetic_g07,1,1,0.68,0.49
+synthetic_r11,synthetic_g08,0,1,0.52,0.36
+synthetic_r12,synthetic_g09,1,1,0.56,0.52
+synthetic_r13,synthetic_g10,0,1,0.43,0.32
+synthetic_r14,synthetic_g10,1,0,0.38,0.58

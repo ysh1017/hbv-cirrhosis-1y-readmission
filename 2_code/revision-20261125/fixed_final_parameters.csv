@@ -1,0 +1,8 @@
+Model,Fixed final parameters,Preprocessing,Development search
+Logistic regression,link = logit; use_pred_offset = true,Raw-scale Core4 values,No parameter search
+LASSO,alpha = 1; lambda = 0.0070756238135273753; standardize = true; fitted offset = false,glmnet standardize = true,lambda 0.00001 to 1 (log scale)
+Elastic net,alpha = 0.081057117001031936; lambda = 0.15074242544734934; standardize = true; use_pred_offset = true,glmnet standardize = true,"alpha 0.05 to 0.95, lambda 0.00001 to 1 (log scale)"
+Random forest,importance = none; min.node.size = 29; mtry.ratio = 0.20000000000000001; num.threads = 1; num.trees = 1000; sample.fraction = 0.61973845550103679,Raw-scale Core4 values,"mtry.ratio 0.20 to 1.00, min.node.size 2 to 30 (integer), sample.fraction 0.60 to 0.95"
+XGBoost,alpha = 0; colsample_bytree = 1; eta = 0.010000000000000004; gamma = 0; lambda = 19.999999999999996; max_depth = 1; min_child_weight = 2.6629788781850916; nrounds = 200; nthread = 1; subsample = 0.63626805179920121; verbose = 0; verbosity = 0; use_pred_offset = true,Raw-scale Core4 values,"max_depth 1 to 4 (integer), min_child_weight 1 to 12, eta 0.01 to 0.15 (log scale), subsample 0.60 to 0.95, lambda 0.5 to 20 (log scale)"
+RBF-SVM,cost = 6.2320977706047129; gamma = 0.0048387327409800361; kernel = radial; scale = true; type = C-classification,"e1071 scale = true, fitted probability mapping","cost 2⁻⁴ to 2⁸ (log scale), gamma 2⁻¹⁰ to 2¹ (log scale)"
+LightGBM,num_leaves = 2; max_depth = 5; learning_rate = 0.010000000000000004; min_data_in_leaf = 19; feature_fraction = 0.69999999999999996; bagging_fraction = 0.69999999999999996; lambda_l2 = 19.999999999999996; nrounds = 326,Raw-scale Core4 values,Eight parameters (see part B)

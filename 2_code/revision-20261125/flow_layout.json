@@ -1,0 +1,181 @@
+{
+  "figure_title": "Figure 1. Selection and allocation of the Chinese cohort",
+  "canvas": {
+    "width_pt": 720,
+    "height_pt": 565,
+    "background": "#FFFFFF"
+  },
+  "font": {
+    "family": "Arial",
+    "regular_file": "arial.ttf",
+    "bold_file": "arialbd.ttf",
+    "body_pt": 12.6,
+    "heading_pt": 13,
+    "leading_pt": 17,
+    "reason_leading_pt": 16.3
+  },
+  "colors": {
+    "text": "#111111",
+    "source_fill": "#F0F0F0",
+    "source_stroke": "#111111",
+    "excluded_fill": "#EFCFD0",
+    "excluded_stroke": "#AF3032",
+    "included_fill": "#E0F3DF",
+    "included_stroke": "#61A866"
+  },
+  "layout": {
+    "SOURCE": {
+      "x": 18,
+      "y": 22,
+      "w": 300,
+      "h": 100
+    },
+    "ELIGIBILITY": {
+      "x": 18,
+      "y": 185,
+      "w": 300,
+      "h": 44
+    },
+    "EXCLUDED": {
+      "x": 366,
+      "y": 140,
+      "w": 336,
+      "h": 292
+    },
+    "FINAL": {
+      "x": 18,
+      "y": 354,
+      "w": 300,
+      "h": 64
+    },
+    "DEVELOPMENT": {
+      "x": 18,
+      "y": 482,
+      "w": 143,
+      "h": 58
+    },
+    "VALIDATION": {
+      "x": 175,
+      "y": 482,
+      "w": 143,
+      "h": 58
+    }
+  },
+  "edges": [
+    {
+      "id": "A1",
+      "points": [
+        [
+          168,
+          122
+        ],
+        [
+          168,
+          185
+        ]
+      ],
+      "arrow": true
+    },
+    {
+      "id": "A2",
+      "points": [
+        [
+          168,
+          229
+        ],
+        [
+          168,
+          354
+        ]
+      ],
+      "arrow": true
+    },
+    {
+      "id": "X1",
+      "points": [
+        [
+          168,
+          280
+        ],
+        [
+          366,
+          280
+        ]
+      ],
+      "arrow": true
+    },
+    {
+      "id": "B0",
+      "points": [
+        [
+          168,
+          418
+        ],
+        [
+          168,
+          453
+        ]
+      ],
+      "arrow": false
+    },
+    {
+      "id": "B1",
+      "points": [
+        [
+          168,
+          453
+        ],
+        [
+          89.5,
+          453
+        ],
+        [
+          89.5,
+          482
+        ]
+      ],
+      "arrow": true
+    },
+    {
+      "id": "B2",
+      "points": [
+        [
+          168,
+          453
+        ],
+        [
+          246.5,
+          453
+        ],
+        [
+          246.5,
+          482
+        ]
+      ],
+      "arrow": true
+    }
+  ],
+  "label_break_after_word": {
+    "SOURCE": [
+      4
+    ],
+    "EXCLUDED": [
+      4
+    ]
+  },
+  "reason_break_after_word": {
+    "E01": [
+      4
+    ],
+    "E08": [
+      4
+    ]
+  },
+  "border_width_pt": 1.45,
+  "arrow_width_pt": 1.35,
+  "arrowhead_length_pt": 7,
+  "arrowhead_halfwidth_pt": 3.3,
+  "padding_pt": 16,
+  "bullet_indent_pt": 12,
+  "reason_gap_pt": 6
+}

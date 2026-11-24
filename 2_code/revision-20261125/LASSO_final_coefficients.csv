@@ -1,0 +1,6 @@
+term,coefficient,lambda,nonzero,coefficient_scale,measurement,input_unit
+(Intercept),-2.35730450700313,0.00707562381352738,TRUE,original numeric input scale,log-odds intercept,not applicable
+ALBI,0.541321748655198,0.00707562381352738,TRUE,original numeric input scale,ALBI score,dimensionless score
+FIB.4,0.0340789336501674,0.00707562381352738,TRUE,original numeric input scale,FIB-4 index,dimensionless index
+INR,2.49344252631639,0.00707562381352738,TRUE,original numeric input scale,INR,dimensionless ratio
+PLT,-0.0122123127492164,0.00707562381352738,TRUE,original numeric input scale,platelet count,10^9/L

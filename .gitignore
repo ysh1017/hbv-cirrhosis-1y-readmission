@@ -9,3 +9,16 @@ Thumbs.db
 *.Rhistory
 *.sqlite
 *.db
+
+# Keep locally held research inputs and outputs out of Git.
+clinical-input/
+private-output/
+private-run/
+local_*.csv
+*.npz
+*.parquet
+*.rdata
+*.zip
+*.pkl
+*.joblib
+.env.*
