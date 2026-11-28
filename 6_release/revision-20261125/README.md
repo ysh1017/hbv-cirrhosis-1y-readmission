@@ -1,14 +1,13 @@
-# 453-record revision
+# Study cohorts, code and aggregate results
 
-This is an author-shared research reproducibility companion for prediction of one-year unplanned readmission for decompensation in HBV-related decompensated cirrhosis. It contains selected published-scope aggregates and selected code. See the [repository rights and use notice](../../0_admin/RIGHTS_AND_USE.md). Public access does not grant an open-source license. The code and models are research material and are not clinically validated for deployment.
+This repository accompanies a study on prediction of one-year unplanned readmission for decompensation in HBV-related decompensated cirrhosis. It provides reproducibility code, synthetic examples and selected aggregate results. See the [repository rights and use notice](../../0_admin/RIGHTS_AND_USE.md). Public access does not grant an open-source license. The code and models are research material and are not clinically validated for deployment.
 
-## Cohorts and intended scope
+## Study cohorts and models
 
-- Chinese cohort: 453 study records, including 317 development records and 136 fixed internal validation records. There were 193 target events. Record counts do not establish counts of independent persons.
-- Exploratory MIMIC-IV evaluation: 102 eligible index hospitalizations contributed by 50 patients, with 67 target event episodes. External outcomes are limited to events observed in the database's covered system. External performance contributed to model selection and also provides exploratory evaluation.
-- The first eligible index hospitalization sensitivity uses one verified earliest eligible episode per patient, independent of future outcome: 50 episodes from the same 50 patients with 25 target events.
-- See [cohort counts](cohort_summary.csv) and [Core4 discrimination](core4_auroc.csv) for selected overall frozen results. The RBF-SVM is the main reported model. Core4 LASSO and ordinary logistic regression are simpler comparators. MELD-Na is a clinical benchmark.
-- The author-shared October results and the previous 445-record version remain in the existing repository history and materials.
+- Chinese cohort: 453 patients, including 317 in development and 136 in fixed internal validation, with 193 target events overall.
+- Exploratory MIMIC-IV evaluation: 102 eligible index hospitalizations from 50 patients, with a target event following 67 index hospitalizations. External outcomes are limited to events observed in the database's covered system. External results informed model selection and are exploratory.
+- The sensitivity analysis used the first eligible index hospitalization for each of the 50 patients, selected independently of the outcome. There were 25 target events.
+- [Cohort counts](cohort_summary.csv) and [Core4 discrimination](core4_auroc.csv) report selected aggregate results. The RBF-SVM is the main reported model. Core4 LASSO and ordinary logistic regression are comparators. MELD-Na is the clinical benchmark.
 
 ## Available code and limits
 

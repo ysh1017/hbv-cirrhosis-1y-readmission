@@ -1,10 +1,10 @@
 # HBV-related decompensated cirrhosis readmission prediction
 
-**Latest version: 453-record revision (25 November 2026).** [Release](https://github.com/ysh1017/hbv-cirrhosis-1y-readmission/releases/tag/revision-20261125) · [Cohorts, code, and aggregate results](6_release/revision-20261125/README.md) · [Reproducibility code](2_code/revision-20261125).
+[Reproducibility release](https://github.com/ysh1017/hbv-cirrhosis-1y-readmission/releases/tag/reproducibility-20261129) · [Study cohorts, code and aggregate results](6_release/revision-20261125/README.md) · [Reproducibility code](2_code/revision-20261125).
 
-The revision contains 453 Chinese study records (317 development, 136 fixed internal validation; 193 target events). The MIMIC-IV cohort comprises 102 eligible admissions from 50 patients. External results informed model selection and are exploratory. The first eligible index analysis includes the same 50 patients once each. Clinical records, trained model objects, and restricted MIMIC-IV data are not distributed. The existing rights and use notice continues to apply.
+The Chinese cohort comprised 453 patients, with 317 in development and 136 in fixed internal validation. There were 193 target events. The exploratory MIMIC-IV evaluation used 102 eligible index hospitalizations from 50 patients. External results informed model selection and are exploratory. The first eligible index analysis includes the same 50 patients once each. Clinical records, trained model objects and restricted MIMIC-IV data are held in authorized environments. See the [repository rights and use notice](0_admin/RIGHTS_AND_USE.md).
 
-**当前版本为453条研究记录的返修版。** 上方版本入口提供数据口径、代码、合成运行示例及选定汇总结果。原445条记录的公开资料和历史提交保留在下方。
+国内队列包括453名患者，其中开发集317名，固定内部验证集136名。上方链接提供复现代码、合成示例和研究汇总结果。
 
 ## Archived October releases
 
